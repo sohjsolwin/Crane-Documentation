@@ -51,3 +51,9 @@ The M3D Crane is an professional technology product. The user assumes all respon
 13. USE CAUTION WHEN REMOVING PRINTS
 
     The best strategy is to let the bed cool, most prints pop off by themselves.
+
+14. REMOVING DUET SD CARD DISABLES FEATURES
+
+    The Duet relies on its microSD card to serve as memory, storage for the LCD menu structure, duet webhost, and basic configurations.  Without this card you can not connect over ethernet or use the LCD, however USB will still work.  We do not recommend removing it. There is an SD card slot under the LCD providing a card slot physically moving print Gcode files, or use the web interface to upload Gcodes.
+
+    
