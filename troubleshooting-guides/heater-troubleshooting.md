@@ -2,7 +2,7 @@
 
 This guide serves to fix any problems you might have with the heater cartridges, PT1000 or the heated bed.
 
-## PT1000 Problems
+## Thermistor/PT1000 Problems
 
 ## Heater Problems
 
@@ -11,8 +11,6 @@ This guide serves to fix any problems you might have with the heater cartridges,
 ### Bed Terminal Connection
 
 If your bed is not heating up uniformly or not heating up at all check the screw terminals that connect the bed to the Duet. Check these terminals on both the Duet side and the heated bed side. It is possible that they loosened up and are not making proper connection.
-
-![](../.gitbook/assets/heatedbedterminals.jpg)
 
 ![](../.gitbook/assets/duetheatedbedterminals.jpg)
 
