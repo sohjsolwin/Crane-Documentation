@@ -1,5 +1,5 @@
 ---
-description: A beginner guide covering the assemblies of the Crane.
+description: A beginner guide covering the assemblies of the promega.
 ---
 
 # \(Edit pictures\) Beginner: Printer Assemblies

@@ -1,20 +1,18 @@
-# Critical Warnings & Information
+# \(Edit details\) Critical Warnings & Information
 
 The M3D Crane is an professional technology product. The user assumes all responsibility for proper operation and acknowledges that they understand the operation and standard practices of additive manufacturing. The user assumes all responsibility for its proper use and agrees to follow the directives below to ensure a safe and working unit before any other operation.
 
 ## Warnings
 
 1. DO NOT TOUCH PRINTER WHILE OPERATING The Crane is a powerful machine. While the Crane is moving or printing you should not reach into the buildspace.
-
 2. AVOID MOVING WITHOUT POWER
-
 3. MOVE MOTORS/BED/EXTRUDER SLOWLY
 
-   Moving motors generates power on all printers and can damage your board.  There is no clear indicator of the power you are generating however when moving very fast the fans may start to turn. If you can hear the fan moving air, you're close to voltages that will break the duet regulator \(more than 28V\). Moving components about 50mm/s is safe. It is best to always move components while the system is powered.
+   Moving motors generates power on all printers and can damage your board. There is no clear indicator of the power you are generating however when moving very fast the fans may start to turn. If you can hear the fan moving air, you're close to voltages that will break the duet regulator \(more than 28V\). Moving components about 50mm/s is safe. It is best to always move components while the system is powered.
 
 4. DISABLING MOTORS
 
-   When you disable motors the printhead may drop extremely slowly to the limit switch.  This is normal behavior and requires rehoming.
+   When you disable motors the printhead may drop extremely slowly to the limit switch. This is normal behavior and requires rehoming.
 
 5. ESD SAFETY:
 
@@ -30,7 +28,7 @@ The M3D Crane is an professional technology product. The user assumes all respon
 
 8. MAXIMUM EXTRUDER SPEED
 
-   It is a common misconception that printhead travel movement speed (i.e. 60 mm/s) is the limiting factor when printing.  However, it is extruder volumetric (or mass) flow rate that is the true limiting speed in most conditions.  It is not easy to be able to exceed 9 mm^3/s (PLA) and 12 mm^3/s (Higher temp materials like PETG, ABS) except in special cases.  To calculate flow rate multiple head speed, layer width, and layer height.  For example: 45mm/s movement, 0.3 mm layers and 0.5 mm wide would be 6.75mm^3/s.  
+   It is a common misconception that printhead travel movement speed \(i.e. 60 mm/s\) is the limiting factor when printing. However, it is extruder volumetric \(or mass\) flow rate that is the true limiting speed in most conditions. It is not easy to be able to exceed 9 mm^3/s \(PLA\) and 12 mm^3/s \(Higher temp materials like PETG, ABS\) except in special cases. To calculate flow rate multiple head speed, layer width, and layer height. For example: 45mm/s movement, 0.3 mm layers and 0.5 mm wide would be 6.75mm^3/s.
 
 9. Z SPEED
 
@@ -54,6 +52,5 @@ The M3D Crane is an professional technology product. The user assumes all respon
 
 14. REMOVING DUET SD CARD DISABLES FEATURES
 
-    The Duet relies on its microSD card to serve as memory, storage for the LCD menu structure, duet webhost, and basic configurations.  Without this card you can not connect over ethernet or use the LCD, however USB will still work.  We do not recommend removing it. There is an SD card slot under the LCD providing a card slot physically moving print Gcode files, or use the web interface to upload Gcodes.
+    The Duet relies on its microSD card to serve as memory, storage for the LCD menu structure, duet webhost, and basic configurations. Without this card you can not connect over ethernet or use the LCD, however USB will still work. We do not recommend removing it. There is an SD card slot under the LCD providing a card slot physically moving print Gcode files, or use the web interface to upload Gcodes.
 
-    

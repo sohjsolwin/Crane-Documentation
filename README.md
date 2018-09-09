@@ -6,8 +6,6 @@ If you are a complete beginner to 3D printing and just got the Crane, please sta
 
 If you are a more experienced 3D printer user: [Get Started Here](https://m3d.gitbook.io/crane-documentation/getting-started). This guide will get you set-up and walk you through your first print.
 
-
-
 ![](.gitbook/assets/4xq0lrj8d0ayncvp4r4n6kfrsstfsy7gbjmumcd4.png)
 
 ## Contributing

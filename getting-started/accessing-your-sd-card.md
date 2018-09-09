@@ -1,6 +1,6 @@
 ---
 description: >-
-  Included in the Crane package you will find a microSD card with preloaded
+  Included in the ProMega package you will find a microSD card with preloaded
   printer settings and configuration. The SD card includes a video with further
   instructions for unpacking.
 ---

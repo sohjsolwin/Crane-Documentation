@@ -8,7 +8,7 @@ While your printer was being shipped, it is possible that a new SD card structur
 
 ## M3D Release SD Card
 
-The latest SD card files released by M3D can be found on the [M3D Github ProMega Repository](https://github.com/PrintM3D/Crane). Follow the steps below in order to download the latest version for your printer. Always be careful when downloading the latest version of the SD card files. New SD card files can cause unintended results such as flipped motor directions or wrongly configured heaters. **Always test all motors and heaters carefully before printing after downloading a new update.**
+Follow the steps below in order to download the latest version for your printer. Always be careful when downloading the latest version of the SD card files. New SD card files can cause unintended results such as flipped motor directions or wrongly configured heaters. **Always test all motors and heaters carefully before printing after downloading a new update.**
 
 Read the [Accessing Your SD Card](https://m3d.gitbook.io/promega-docs/getting-started/accessing-your-sd-card) for more help on getting to the SD card files.
 
@@ -20,9 +20,7 @@ Read the [SD Card Structure](https://m3d.gitbook.io/promega-docs/getting-started
 
 This is the recommended option.
 
-Go to the [M3D GitHub Crane Repository Releases](https://github.com/PrintM3D/Crane/releases) and download the latest release. Download the _.zip_ folder for the extruder head that you currently have mounted. The Crane can come with either the K'tana \(two nozzles\) or the compound \(1 nozzle\).
-
-![Downloading the Latest Release](../.gitbook/assets/wheretoinstallnewsdstuff.png)
+Go to the M3D GitHub Crane Repository [Releases](https://github.com/PrintM3D/Crane/releases/) and download the latest release. Or simply click [here](https://github.com/PrintM3D/Crane/releases/download/v0.2/Crane_Bowden_SD.zip). 
 {% endtab %}
 
 {% tab title="Downloading Directly from the Repository" %}

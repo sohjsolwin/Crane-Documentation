@@ -1,5 +1,5 @@
 ---
-description: Beginner guide covering the Crane printer coordinates.
+description: Beginner guide covering the promega printer coordinates.
 ---
 
 # \(Edit details\) Beginner: Printer Coordinates

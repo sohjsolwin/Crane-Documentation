@@ -54,7 +54,7 @@ The Crane electrical components have specific resistances attributed to them. Th
 **Resistance Table**
 
 | Component | Expected Value \(Ω\) |
-| --- | --- |
+| :--- | :--- |
 | Extruder PT1000 | 1090\* Ω |
 | Extruder Heater | 13.1 Ω |
 | Bed | 2.2 Ω |
