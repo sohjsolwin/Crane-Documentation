@@ -10,11 +10,9 @@ description: How to load and unload filament into the extruder.
 
    ![ZzzciCea9XJ9Ev9A-heatingbed.PNG](../.gitbook/assets/zzzcicea9xj9ev9a-heatingbed-1%20%281%29.PNG)
 
-2. Send filament through the entrance of the PTFE tubes located at the back of the printer.
+2. Send filament through the entrance of the extruder located at left side of the printer. While compressing the leaver on the extruder, feed the filament on through the bowden tube and into the hot end. As the filament hits the hotend, it will heat up and starts to liquify. The filament will then start to seep out of the nozzle.  
 
    ![mPkv4PqN42WrQYYk-PTFEEntrance.jpg](../.gitbook/assets/mpkv4pqn42wrqyyk-ptfeentrance.jpg)
-
-   The filament will go through the cable chain housing and come out at the end of the cable chain at the extruder assembly. It is not necessary to feed the filament through the filament tubes in order to print.
 
 3. Guide the filament into the holes in the extruder \(pictured below\). Push the filament about one inch down so you are pressing the filament against an extruder gear located inside. You can unclip the PTFE tube holders if necessary.
 

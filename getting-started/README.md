@@ -26,8 +26,6 @@ Follow the guides in this Getting Started chapter of the Crane Docs to properly 
 
 {% page-ref page="an-introduction-to-tools.md" %}
 
-{% page-ref page="important-g-code-commands.md" %}
-
 * [Critical Warnings & Information](critical-warnings-and-information.md): Contains important warnings and information about using the Crane.
 * [Unboxing & Assembly](): A step-by-step guide to unbox your printer and assemble the shipped components.
 * [Mechanical Check](): Confirm your printer is ready to print.
@@ -43,4 +41,6 @@ Follow the guides in this Getting Started chapter of the Crane Docs to properly 
 * [Running a Print](running-a-print.md):  To run a print on the Crane
 * [An Introduction to Tools](an-introduction-to-tools.md): Explains the operations of tools.
 * I[mportant G-code commands](important-g-code-commands.md): A list of useful G-code commands to know.
+
+{% page-ref page="important-g-code-commands.md" %}
 
