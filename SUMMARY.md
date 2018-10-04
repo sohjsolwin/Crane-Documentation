@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [M3D Crane Bowden Quick Start Guide](m3d-crane-bowden-quick-start-guide.md)
 * [Getting Started](getting-started/README.md)
   * [\(Edit details\) Critical Warnings & Information](getting-started/critical-warnings-and-information.md)
   * [Accessing Your SD Card](getting-started/accessing-your-sd-card.md)
