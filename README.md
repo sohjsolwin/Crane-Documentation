@@ -1,18 +1,41 @@
-# Welcome
+---
+description: Information on your M3D Crane Series printer.
+---
 
-Welcome to the User Manual for the M3D Crane 3D Printer. Please feel free to add suggestions to any of the guides by creating a pull-request or issue on [GitHub](https://github.com/PrintM3D/Crane-Documentation/issues). This manual is hosted in Github.com via Gitbook.com.
+# Welcome \(new\)
 
-If you are a complete beginner to 3D printing and just got the Crane, please start at the [Beginner Guides](beginner-guides/).
+Welcome and thank you for choosing the M3D Crane series of printers! From here you will be able to navigate through our Quick Start Guide. First select the Model style of M3D Crane you have purchased and you will be directed to the Quick Start Guide that matches your new printer. 
 
-If you are a more experienced 3D printer user: [Get Started Here](https://m3d.gitbook.io/crane-documentation/getting-started). This guide will get you set-up and walk you through your first print.
-
-![](.gitbook/assets/4xq0lrj8d0ayncvp4r4n6kfrsstfsy7gbjmumcd4.png)
-
-## Contributing
-
-The main way to collaborate to the guides is to become a collaborator. But sometimes you simply want to submit a small contribution, without becoming a regular collaborator.
-
-On GitHub, one can use the popular _Pull Request_ feature. To do so, you would clone [https://github.com/PrintM3D/Crane-Documentation](https://github.com/PrintM3D/Crane-Documentation), make changes on your own copy, and submit back your changes by submitting a _Pull Request_ to M3D. Then we will review the changes accordingly.
-
-Thank you
-
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center"><b>The Crane Bowden</b>
+      </th>
+      <th style="text-align:center"><b>The Crane Quad</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">
+        <p></p>
+        <p>
+          <img src=".gitbook/assets/crane_bowden (1).png" alt="gras" />
+        </p>
+      </td>
+      <td style="text-align:center">
+        <p></p>
+        <p>
+          <img src=".gitbook/assets/quad.png" alt="gras" />
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>| [Crane Bowden Quick Start Guide](https://crane.printm3d.com/~/edit/drafts/-LON0jJTdJoUd9FoPX0S/m3d-crane-bowden-quick-start-guide) |  [Crane Quad Quick Start Guide](https://crane.printm3d.com/~/drafts/-LON0jJTdJoUd9FoPX0S/primary/v/master/m3d-crane-quad-quick-start-guide) |
+| :---: | :---: |
+| [Assembly Guide ](https://crane.printm3d.com/~/edit/drafts/-LON0jJTdJoUd9FoPX0S/m3d-crane-bowden-quick-start-guide#gmail-assembly) | [Assembly Guide](https://crane.printm3d.com/~/edit/drafts/-LON0jJTdJoUd9FoPX0S/v/master/m3d-crane-quad-quick-start-guide#gmail-assembly) |
+| [Heating the Bed and Nozzle](https://crane.printm3d.com/~/drafts/-LON0jJTdJoUd9FoPX0S/primary/getting-started/heating-the-bed-and-nozzles) | [Heating the Bed and Nozzle](https://crane.printm3d.com/~/drafts/-LON0jJTdJoUd9FoPX0S/primary/getting-started/heating-the-bed-and-nozzles) |
+| [Loading/Unloading Filament](https://crane.printm3d.com/~/drafts/-LON0jJTdJoUd9FoPX0S/primary/v/master/m3d-crane-bowden-quick-start-guide#loading-and-unloading-filament)  | [Loading/Unloading Filament](https://quadfusion.printm3d.com/printing-guides/new-loading-and-unloading-filament)  |
+| Slicer Profile Guide | Slicer Profile Guide |
+| Starting your First Print | Starting your First Print |
+| [Bed Leveling ](https://crane.printm3d.com/~/edit/drafts/-LON0jJTdJoUd9FoPX0S/v/master/manual-bed-leveling) | [Bed Leveling](https://crane.printm3d.com/~/edit/drafts/-LON0jJTdJoUd9FoPX0S/v/master/manual-bed-leveling) |
