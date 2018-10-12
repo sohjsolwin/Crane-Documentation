@@ -1,6 +1,6 @@
 # Crane Configurations
 
-Welcome and thank you for choosing the M3D Crane series of printers! From here you will be able to navigate through our Quick Start Guide. First select the Model style of M3D Crane you have purchased and you will be directed to the Quick Start Guide that matches your new printer.
+This page describes the three configurations of the M3D Crane Printer.  Here you can find detailed information on the components utilized in each, theory of operation, and other data for your reference.
 
 | **The Crane Bowden** | **The Crane Quad** |
 | :--- | :--- |
