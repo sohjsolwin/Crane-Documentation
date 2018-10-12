@@ -27,12 +27,12 @@ Welcome and thank you for choosing the M3D Crane series of printers! From here y
       </td>
     </tr>
   </tbody>
-</table>| [Crane Bowden Quick Start Guide](https://crane.printm3d.com/~/edit/drafts/-LON0jJTdJoUd9FoPX0S/m3d-crane-bowden-quick-start-guide) |  [Crane Quad Quick Start Guide](https://crane.printm3d.com/~/drafts/-LON0jJTdJoUd9FoPX0S/primary/v/master/m3d-crane-quad-quick-start-guide) |
+</table>| [Crane Bowden Quick Start Guide](https://crane.printm3d.com/m3d-crane-quad-quick-start-guide) |  [Crane Quad Quick Start Guide](https://crane.printm3d.com/m3d-crane-quad-quick-start-guide) |
 | :---: | :---: |
-| [Assembly Guide ](https://crane.printm3d.com/~/edit/drafts/-LON0jJTdJoUd9FoPX0S/m3d-crane-bowden-quick-start-guide#gmail-assembly) | [Assembly Guide](https://crane.printm3d.com/~/edit/drafts/-LON0jJTdJoUd9FoPX0S/v/master/m3d-crane-quad-quick-start-guide#gmail-assembly) |
-| [Heating the Bed and Nozzle](https://crane.printm3d.com/~/drafts/-LON0jJTdJoUd9FoPX0S/primary/getting-started/heating-the-bed-and-nozzles) | [Heating the Bed and Nozzle](https://crane.printm3d.com/~/drafts/-LON0jJTdJoUd9FoPX0S/primary/getting-started/heating-the-bed-and-nozzles) |
-| [Loading/Unloading Filament](https://crane.printm3d.com/~/drafts/-LON0jJTdJoUd9FoPX0S/primary/v/master/m3d-crane-bowden-quick-start-guide#loading-and-unloading-filament)  | [Loading/Unloading Filament](https://quadfusion.printm3d.com/printing-guides/new-loading-and-unloading-filament)  |
+| [Assembly Guide ](https://crane.printm3d.com/m3d-crane-bowden-quick-start-guide) | [Assembly Guide](https://crane.printm3d.co/m3d-crane-quad-quick-start-guide) |
+| [Heating the Bed and Nozzle](https://crane.printm3d.com/getting-started/heating-the-bed-and-nozzles) | [Heating the Bed and Nozzle](https://crane.printm3d.com/getting-started/heating-the-bed-and-nozzles) |
+| [Loading/Unloading Filament](https://quadfusion.printm3d.com/printing-guides/new-loading-and-unloading-filament)  | [Loading/Unloading Filament](https://quadfusion.printm3d.com/printing-guides/new-loading-and-unloading-filament)  |
 | Slicer Profile Guide | Slicer Profile Guide |
 | Starting your First Print | Starting your First Print |
-| [Bed Leveling ](https://crane.printm3d.com/~/edit/drafts/-LON0jJTdJoUd9FoPX0S/v/master/manual-bed-leveling) | [Bed Leveling](https://crane.printm3d.com/~/edit/drafts/-LON0jJTdJoUd9FoPX0S/v/master/manual-bed-leveling) |
+| [Bed Leveling ](https://crane.printm3d.com/manual-bed-leveling) | [Bed Leveling](https://crane.printm3d.com/manual-bed-leveling) |
 
