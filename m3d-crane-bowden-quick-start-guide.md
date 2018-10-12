@@ -4,7 +4,7 @@ description: >-
   Bowden Printer.
 ---
 
-# M3D Crane Bowden Quick Start Guide
+# M3D Crane Bowden Quick Start Guide \(new\)
 
 {% hint style="warning" %}
 The M3D Crane Bowden contains sensitive electronics, delicate mechanical parts, and an electrical heating system. Please exercise all applicable safety precautions and follow this guide closely to avoid damage to your M3D Crane Bowden, to avoid injury to yourself or others, and insure proper operation.
@@ -18,9 +18,9 @@ After removing your M3D Crane Bowden from the box, remove all the plastic wrappi
 
 Remove the bolts at the bottom of each upright rail, as shown below. Setting them aside briefly:
 
-![note the bolts sticking out of the rails](.gitbook/assets/image%20%282%29.png)
+![note the bolts sticking out of the rails](.gitbook/assets/image%20%288%29.png)
 
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/image%20%283%29.png)
 
 
 
@@ -62,7 +62,7 @@ Prior to exiting this section, please double check all connections, and place yo
 
 Once your M3D Crane Bowden is complete it should look like this:
 
-![](.gitbook/assets/image%20%281%29.png)
+![](.gitbook/assets/image%20%284%29.png)
 
 ## First steps with your M3D Crane Bowden: {#gmail-first-steps-with-your-m-3-d-crane-bowden}
 
@@ -72,7 +72,9 @@ Once your M3D Crane Bowden is assembled and powered on, follow these steps to pr
 
 The very first step is to **Home** your M3D Crane Bowden. To do this simply select **Home** **All** on your Menu screen.
 
-Once your printer has been **homed** you will need to **heat the nozzle** in order to load your filament and start your print.
+## Loading and Unloading Filament:
+
+Once your printer has been **homed** you will need to **heat the nozzle** in order to **load your filament** and start your print.
 
 The temperature of the nozzle will be dependent upon the type of filament you choose to use for your first print, for the included test print we ask that **PLA** be used. Recommendations vary on the best temperature to use for PLA, but for this test print we ask that you **heat the nozzle to 200C.**
 
@@ -81,6 +83,8 @@ In the **Main Menu** scroll down to **Temperature Settings**, then select **nozz
 Once your nozzle is up to temp you may insert your **PLA** filament. Send **filament** through the entrance of the **extruder** **located at left side of the printer**. While **compressing the leaver on the extruder, feed the filament on through the bowden tube and into the hot end**. As the filament hits the hotend, it will heat up and start to liquefy. The filament will then start to seep out of the nozzle.
 
 It is recommended to **extrude 50 to 100 mm** of filament to ensure correct loading, heating, and that there are no blockages in the nozzle or bowden tube. Go to the **Main Menu,** select **Extruder** and simply turn the nob until the desired mm is reached, your M3D Crane Bowden will begin extruding a consistent string of filament.
+
+To **Unload the Filament** simply maintain your nozzle temperature **while depressing the leaver on the extruder. \(This will disengage the extruder gears so the filament will be free to move\)** Grab hold of the filament and pull it out with a sweeping, fluid motion. The filament will be slide up and out of the nozzle, out of the bowden tube and out the extruder.  
 
 In the **Main Menu** of your M3D Crane Bowden, scroll down and select the **Print** option, there find and **select the SD option**, the g.code for the included test print will be there. **Select the Test Print.** Once the test print is selected, your M3D Crane Bowden will begin it's print sequence. First the **print bed will heat up to temp** \(around 60C\) as specified by the g.code, then your print will begin!
 
