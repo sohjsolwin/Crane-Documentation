@@ -1,7 +1,3 @@
----
-description: This page describes the Manual Bed Leveling process
----
-
 # Manual Bed Leveling \(new\)
 
 ## Manually Leveling your M3D Crane printer bed:

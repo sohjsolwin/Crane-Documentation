@@ -1,9 +1,3 @@
----
-description: >-
-  A quick start guide to get you printing quickly and easily on your M3D Crane
-  Bowden Printer.
----
-
 # M3D Crane Bowden Quick Start Guide \(new\)
 
 {% hint style="warning" %}

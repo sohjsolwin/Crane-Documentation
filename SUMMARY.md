@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Welcome \(new\)](welcome-new.md)
+* [Crane Configurations](welcome-new.md)
 * [Community Submissions \(new\)](community-submissions.md)
 * [M3D Crane Bowden Quick Start Guide \(new\)](m3d-crane-bowden-quick-start-guide.md)
 * [M3D Crane Quad Quick Start Guide \(new\)](m3d-crane-quad-quick-start-guide.md)

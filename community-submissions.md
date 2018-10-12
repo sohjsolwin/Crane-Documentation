@@ -1,7 +1,3 @@
----
-description: Providing Community Support for the Crane Series of products.
----
-
 # Community Submissions \(new\)
 
 ## Community Support through Submissions:
