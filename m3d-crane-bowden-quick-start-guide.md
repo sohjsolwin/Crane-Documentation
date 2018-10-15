@@ -72,15 +72,11 @@ Once your printer has been **homed** you will need to **heat the nozzle** in ord
 
 The temperature of the nozzle will be dependent upon the type of filament you choose to use for your first print, for the included test print we ask that **PLA** be used. Recommendations vary on the best temperature to use for PLA, but for this test print we ask that you **heat the nozzle to 200C.**
 
-In the **Main Menu** scroll down to **Temperature Settings**, then select **nozzle**. Simply turn the nob and the until you arrive at the desired temperature of **200C**. It will take just a few quick moments for your nozzle to come up to temp.
-
 Once your nozzle is up to temp you may insert your **PLA** filament. Send **filament** through the entrance of the **extruder** **located at left side of the printer**. While **compressing the leaver on the extruder, feed the filament on through the bowden tube and into the hot end**. As the filament hits the hotend, it will heat up and start to liquefy. The filament will then start to seep out of the nozzle.
 
-It is recommended to **extrude 50 to 100 mm** of filament to ensure correct loading, heating, and that there are no blockages in the nozzle or bowden tube. Go to the **Main Menu,** select **Extruder** and simply turn the nob until the desired mm is reached, your M3D Crane Bowden will begin extruding a consistent string of filament.
+It is recommended to **extrude 50 to 100 mm** of filament to ensure correct loading, heating, and that there are no blockages in the nozzle or bowden tube. 
 
 To **Unload the Filament** simply maintain your nozzle temperature **while depressing the leaver on the extruder. \(This will disengage the extruder gears so the filament will be free to move\)** Grab hold of the filament and pull it out with a sweeping, fluid motion. The filament will be slide up and out of the nozzle, out of the bowden tube and out the extruder.  
-
-In the **Main Menu** of your M3D Crane Bowden, scroll down and select the **Print** option, there find and **select the SD option**, the g.code for the included test print will be there. **Select the Test Print.** Once the test print is selected, your M3D Crane Bowden will begin it's print sequence. First the **print bed will heat up to temp** \(around 60C\) as specified by the g.code, then your print will begin!
 
 ## Slicing and Printing the first model: {#gmail-slicing-and-printing-the-first-model}
 
