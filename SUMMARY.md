@@ -5,7 +5,6 @@
 * [M3D Crane Bowden Quick Start Guide \(new\)](m3d-crane-bowden-quick-start-guide.md)
 * [M3D Crane Quad Quick Start Guide \(new\)](m3d-crane-quad-quick-start-guide.md)
 * [M3D Crane Dual Quick Start Guide \(new\)](m3d-crane-dual-quick-start-guide.md)
-* [Manual Bed Leveling \(new\)](manual-bed-leveling.md)
 * [M3D Crane Bowden Advanced  Tuning](m3d-crane-bowden-advanced-tuning.md)
 * [SD Card Structure \(new\)](sd-card-structure.md)
 * [Accessing Your SD Card](accessing-your-sd-card.md)
@@ -15,7 +14,6 @@
   * [Accessing Web Interface](getting-started/accessing-web-interface.md)
   * [Updating SD Card Structure](getting-started/updating-sd-card-structure.md)
   * [\(Edit details\) Homing the Printer](getting-started/homing-the-printer.md)
-  * [Heating the Bed and Nozzles](getting-started/heating-the-bed-and-nozzles.md)
   * [\(Edit pictures\) Loading and Unloading Filament](getting-started/loading-and-unloading-filament.md)
   * [Preparing a Print](getting-started/preparing-a-print.md)
   * [Running a Print](getting-started/running-a-print.md)
@@ -64,6 +62,8 @@
 ## Crane Bowden Guide
 
 * [Crane Bowden Unboxing/Assembly](crane-bowden-guide/crane-bowden-unboxing-assembly.md)
+* [Manual Bed Leveling](crane-bowden-guide/manual-bed-leveling.md)
+* [Heating the Bed and Nozzles](crane-bowden-guide/heating-the-bed-and-nozzles.md)
 * [Loading and Unloading Filament](crane-bowden-guide/loading-and-unloading-filament.md)
 * [Slicing and Printing your first Model](crane-bowden-guide/slicing-and-printing-your-first-model.md)
 

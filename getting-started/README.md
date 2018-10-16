@@ -16,7 +16,7 @@ Follow the guides in this Getting Started chapter of the Crane Docs to properly 
 
 {% page-ref page="homing-the-printer.md" %}
 
-{% page-ref page="heating-the-bed-and-nozzles.md" %}
+{% page-ref page="../crane-bowden-guide/heating-the-bed-and-nozzles.md" %}
 
 {% page-ref page="loading-and-unloading-filament.md" %}
 
@@ -34,7 +34,7 @@ Follow the guides in this Getting Started chapter of the Crane Docs to properly 
 * [Accessing Web Interface](accessing-web-interface.md): An explanation of the features included in the Duet Web Console on the Duet Maestro.
 * [SD Card Structure](../sd-card-structure.md): A walk through of all the different folders and files located on the SD card. 
 * [Homing the Printer](homing-the-printer.md): An explanation of the homing process of the Crane.
-* [Heating the Bed and Nozzles](heating-the-bed-and-nozzles.md): How to heat the bed and the nozzles
+* [Heating the Bed and Nozzles](../crane-bowden-guide/heating-the-bed-and-nozzles.md): How to heat the bed and the nozzles
 * [Loading and Unloading Filament](loading-and-unloading-filament.md): On how to load filament into the extruder of the Crane.
 * [Z-Probe Calibration](): To configure your Z-probe settings
 * [Preparing a Print](preparing-a-print.md): A guide on how to slice files and import slicer settings.

@@ -1,4 +1,8 @@
-# Manual Bed Leveling \(new\)
+---
+description: Manual Bed Leveling using the Bed Leveling assistant.
+---
+
+# Manual Bed Leveling
 
 ## Manually Leveling your M3D Crane printer bed:
 

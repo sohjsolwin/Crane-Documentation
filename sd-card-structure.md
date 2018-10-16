@@ -225,5 +225,7 @@ In the _sys_ folder you will find many other files which handle other important 
 * _**bed.g**_ is executed when a `G32` is called. This command is more widely explained in our [**Bed Leveling Guide.**    ](https://crane.printm3d.com/~/drafts/-LON0jJTdJoUd9FoPX0S/primary/manual-bed-leveling)\*\*\*\*
 * _**sleep.g**_ when the printer has shut down and all the motors and heaters are turned off, _**sleep.g**_  `M1` can be send which will wake it up again.
 
-\*\*\*\*
+## Going deeper:
+
+If you would like to learn more about gcode and it's various commands, we recommend starting [HERE](https://duet3d.dozuki.com/Wiki/Gcode).
 
