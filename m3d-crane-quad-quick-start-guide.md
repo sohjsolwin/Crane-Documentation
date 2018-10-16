@@ -100,13 +100,13 @@ Verify that wiring between the Duet 2 Maestro and the M3D Crane \(including wiri
    ![](https://lh6.googleusercontent.com/ffGJ93PifCDq5QijJ3I-Uyo-cZbjVMrkEtxqdt-sYJzzW5ijbcS4NAStR6if9kSVCmBoO__tIuZSaMj2Y6G5N5KtTZHIcLgqf2KhcxRe7MM-UZYA2F1NcbiLzVVmt4fRp6TiWyWk)
 
 2. Press retract while pushing filament lightly in, this is to verify that things are working and that you're in the right position and chose the right port. If the filament is ticking in your hands, go ahead and press the filament towards the gear while pushing the extrude button. \(You should to feel the filament grab and pull through.\)
-3. Lightly hold the filament in your hands and press extrude again until filament stops extruding. Repeat once mote times for a total of 60 mm fed through.
+3. Lightly hold the filament in your hands and press extrude again until filament stops extruding. Repeat one more time for a total of 60 mm fed through.
 4. If at any point filament gets stuck proceed to troubleshooting \(Retract and try again. TBD\)
 5. Repeat the above procedure for extruder drive 2 and THEN with ports 1 and 3.
 
 ## Extrusion: {#extrusion}
 
-* Set the temp to 240C \(nozzle may ooze ignore it\)
+* Set the temp to 240C \(nozzle may ooze, ignore it\)
 * Change settings to extrude all at 15mm/s and leave the extrude amount at 20mm.
 * Confirm your temperature is still set to 240C.
 * Hit extrude \(Waiting between steps\) until filament comes out at a steady speed.
