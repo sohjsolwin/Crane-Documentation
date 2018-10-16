@@ -2,7 +2,6 @@
 
 * [Welcome](README.md)
 * [Crane Configurations](welcome-new.md)
-* [Community Submissions \(new\)](community-submissions.md)
 * [M3D Crane Bowden Quick Start Guide \(new\)](m3d-crane-bowden-quick-start-guide.md)
 * [M3D Crane Quad Quick Start Guide \(new\)](m3d-crane-quad-quick-start-guide.md)
 * [M3D Crane Dual Quick Start Guide \(new\)](m3d-crane-dual-quick-start-guide.md)
@@ -11,7 +10,7 @@
 * [SD Card Structure \(new\)](sd-card-structure.md)
 * [Accessing Your SD Card](accessing-your-sd-card.md)
 * [Getting Started](getting-started/README.md)
-  * [\(Edit details\) Critical Warnings & Information](getting-started/critical-warnings-and-information.md)
+  * [Critical Warnings & Information](getting-started/critical-warnings-and-information.md)
   * [Network Setup](getting-started/network-setup.md)
   * [Accessing Web Interface](getting-started/accessing-web-interface.md)
   * [Updating SD Card Structure](getting-started/updating-sd-card-structure.md)
@@ -59,5 +58,22 @@
   * [Troubleshooting Duet Web Console](troubleshooting-guides/troubleshooting-duet-web-console.md)
   * [\(Edit pictures\) Heater Troubleshooting](troubleshooting-guides/heater-troubleshooting.md)
 * [Community Guides](community-guides/README.md)
+  * [Community Submissions \(new\)](community-guides/community-submissions.md)
   * [Community Guide Template](community-guides/community-guide-template.md)
+
+## Crane Bowden Guide
+
+* [Crane Bowden Unboxing/Assembly](crane-bowden-guide/crane-bowden-unboxing-assembly.md)
+* [Loading and Unloading Filament](crane-bowden-guide/loading-and-unloading-filament.md)
+* [Slicing and Printing your first Model](crane-bowden-guide/slicing-and-printing-your-first-model.md)
+
+## Crane Quad Guide
+
+* [Unboxing and Assembly](crane-quad-guide/unboxing-and-assembly.md)
+* [Loading and Unloading Filament](crane-quad-guide/loading-and-unloading-filament.md)
+
+## Crane Dual
+
+* [Unboxing and Assembly](crane-dual/unboxing-and-assembly.md)
+* [Loading and Unloading Filament](crane-dual/loading-and-unloading-filament.md)
 
