@@ -1,4 +1,4 @@
-# Community Submissions \(new\)
+# Community Submissions
 
 ## Community Support through Submissions:
 

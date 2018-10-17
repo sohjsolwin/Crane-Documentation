@@ -56,7 +56,7 @@
   * [Troubleshooting Duet Web Console](troubleshooting-guides/troubleshooting-duet-web-console.md)
   * [\(Edit pictures\) Heater Troubleshooting](troubleshooting-guides/heater-troubleshooting.md)
 * [Community Guides](community-guides/README.md)
-  * [Community Submissions \(new\)](community-guides/community-submissions.md)
+  * [Community Submissions](community-guides/community-submissions.md)
   * [Community Guide Template](community-guides/community-guide-template.md)
 
 ## Crane Bowden Guide
