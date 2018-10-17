@@ -71,6 +71,7 @@
 ## Crane Quad Guide
 
 * [Unboxing and Assembly](crane-quad-guide/unboxing-and-assembly.md)
+* [First time Network Setup](crane-quad-guide/first-time-network-setup.md)
 * [Loading and Unloading Filament](crane-quad-guide/loading-and-unloading-filament.md)
 
 ## Crane Dual
