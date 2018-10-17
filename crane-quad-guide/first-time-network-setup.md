@@ -1,3 +1,9 @@
+---
+description: >-
+  This section provides instructions on adding your printer to your network for
+  the first time.
+---
+
 # First time Network Setup
 
 Connecting to your M3D Crane Series Printer via your local network is very useful as you get access to the **Duet Web Console**. You can connect your M3D Crane Series Printer to your local network via the **Ethernet port on the Duet Maestro.** Once the network settings are properly configured, you will be able to connect to the **Duet board** and access the **Duet Web Console**.
