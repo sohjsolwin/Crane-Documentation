@@ -1,4 +1,4 @@
-# Slicing and Printing your first Model
+# Finding and Slicing a Model
 
 ## Slicing and Printing the first model: {#gmail-slicing-and-printing-the-first-model}
 
