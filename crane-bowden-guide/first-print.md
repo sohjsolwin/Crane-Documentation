@@ -1,4 +1,12 @@
+---
+description: >-
+  This page will guide you through uploading and printing your first print via
+  Duet Web Control Interface.
+---
+
 # First Print
+
+Now that we've covered the very basics on the Duet Web Control Interface, and ran the Bed Leveling Assistant it's time to GET PRINTING. 
 
 ## Uploading and Printing:
 
