@@ -6,7 +6,7 @@
 * [M3D Crane Quad Quick Start Guide \(new\)](m3d-crane-quad-quick-start-guide.md)
 * [M3D Crane Dual Quick Start Guide \(new\)](m3d-crane-dual-quick-start-guide.md)
 * [M3D Crane Bowden Advanced  Tuning](m3d-crane-bowden-advanced-tuning.md)
-* [SD Card Structure \(new\)](sd-card-structure.md)
+* [SD card Structure](sd-card-structure.md)
 * [Accessing Your SD Card](accessing-your-sd-card.md)
 * [Getting Started](getting-started/README.md)
   * [Critical Warnings & Information](getting-started/critical-warnings-and-information.md)
@@ -62,6 +62,7 @@
 ## Crane Bowden Guide
 
 * [Crane Bowden Unboxing/Assembly](crane-bowden-guide/crane-bowden-unboxing-assembly.md)
+* [First time Network Setup](crane-bowden-guide/first-time-network-setup.md)
 * [Manual Bed Leveling](crane-bowden-guide/manual-bed-leveling.md)
 * [Heating the Bed and Nozzles](crane-bowden-guide/heating-the-bed-and-nozzles.md)
 * [Loading and Unloading Filament](crane-bowden-guide/loading-and-unloading-filament.md)
