@@ -79,6 +79,7 @@
 * [Manual Bed Leveling Assistant](crane-quad-guide/manual-bed-leveling-assistant.md)
 * [Heating the Bed and the Nozzle](crane-quad-guide/heating-the-bed-and-the-nozzle.md)
 * [Loading and Unloading Filament](crane-quad-guide/loading-and-unloading-filament.md)
+* [Finding and Slicing a Model](crane-quad-guide/finding-and-slicing-a-model.md)
 
 ## Crane Dual
 
