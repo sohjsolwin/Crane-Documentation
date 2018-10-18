@@ -18,7 +18,7 @@ Prior to every heating of the nozzles or the bed, check the temperature readouts
 
 1. In the Duet Web Console find the table _Tools/Heaters/Extra_, pictured below. In the row _Bed_ change the active temperature from 0C to your desired temperature and press Enter.
 
-   ![ZzzciCea9XJ9Ev9A-heatingbed.PNG](../.gitbook/assets/zzzcicea9xj9ev9a-heatingbed-1.PNG)
+   ![ZzzciCea9XJ9Ev9A-heatingbed.PNG](.gitbook/assets/zzzcicea9xj9ev9a-heatingbed-1.PNG)
 
 2. In order to turn the heated bed off, set the temperature back to 0 in the _Active_ column and press Enter.
 
@@ -45,7 +45,7 @@ It can take a few minutes for the bed to reach the desired temperature and for t
 
 1. In the Duet Web Console find the table _Tools/Heaters/Extra_, pictured below. In your desired tool row change the active temperature from 0C to your desired temperature and press Enter.
 
-   ![ZzzciCea9XJ9Ev9A-heatingbed.PNG](../.gitbook/assets/zzzcicea9xj9ev9a-heatingbed.PNG)
+   ![ZzzciCea9XJ9Ev9A-heatingbed.PNG](.gitbook/assets/zzzcicea9xj9ev9a-heatingbed.PNG)
 
 2. Remember that the tool will only heat up to your set active temperature **when the tool is selected**. Select a different tool with the command `Tnnn` where `n` is your tool number. If I wanted to select tool 1, I would send the command `T1` .
 3. In order to turn off the heater. Set the tools active temperature to 0 and press Enter. Remember that a tool will heat up to the standby temperature when the tool is not selected, but was previously selected.
