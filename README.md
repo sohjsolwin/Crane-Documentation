@@ -22,7 +22,7 @@ Welcome and thank you for choosing the M3D Crane series of printers! From here y
 | [Bed Leveling](https://crane.printm3d.com/crane-bowden-guide/manual-bed-leveling) | [Bed Leveling](https://crane.printm3d.com/crane-bowden-guide/manual-bed-leveling) |
 | [Bed/Nozzle Control](https://crane.printm3d.com/crane-bowden-guide/heating-the-bed-and-the-nozzle) | [Bed/Nozzle Control](https://crane.printm3d.com/crane-bowden-guide/heating-the-bed-and-the-nozzle) |
 | [Loading/Unloading Filament](https://crane.printm3d.com/m3d-crane-bowden-quick-start-guide#loading-and-unloading-filament) | [Loading/Unloading Filament](https://quadfusion.printm3d.com/printing-guides/new-loading-and-unloading-filament) |
-| Slicer Profile Guide | Slicer Profile Guide |
+| [Slicing your Model](https://crane.printm3d.com/crane-bowden-guide/slicing-and-printing-your-first-model) | [Slicing your Model](https://crane.printm3d.com/crane-bowden-guide/slicing-and-printing-your-first-model) |
 | Your First Print | Your First Print |
 
 
