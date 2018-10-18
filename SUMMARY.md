@@ -61,7 +61,7 @@
 
 ## Crane Bowden Guide
 
-* [Crane Bowden Unboxing/Assembly](crane-bowden-guide/crane-bowden-unboxing-assembly.md)
+* [Unboxing/Assembly](crane-bowden-guide/crane-bowden-unboxing-assembly.md)
 * [First time Network Setup](crane-bowden-guide/first-time-network-setup.md)
 * [First look at Duet Web Control](crane-bowden-guide/intro-to-duet-web-control.md)
 * [Manual Bed Leveling](crane-bowden-guide/manual-bed-leveling.md)
