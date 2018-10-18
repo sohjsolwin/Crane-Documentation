@@ -65,6 +65,7 @@
 * [First time Network Setup](crane-bowden-guide/first-time-network-setup.md)
 * [First look at Duet Web Control](crane-bowden-guide/intro-to-duet-web-control.md)
 * [Manual Bed Leveling](crane-bowden-guide/manual-bed-leveling.md)
+* [Heating the Bed and the Nozzle](crane-bowden-guide/heating-the-bed-and-the-nozzle.md)
 * [Heating the Bed and Nozzles](crane-bowden-guide/heating-the-bed-and-nozzles.md)
 * [Loading and Unloading Filament](crane-bowden-guide/loading-and-unloading-filament.md)
 * [Finding and Slicing a Model](crane-bowden-guide/slicing-and-printing-your-first-model.md)
