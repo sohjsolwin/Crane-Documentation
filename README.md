@@ -18,6 +18,7 @@ Welcome and thank you for choosing the M3D Crane series of printers! From here y
 | :---: | :---: |
 | [Assembly Guide](https://crane.printm3d.com/m3d-crane-bowden-quick-start-guide) | [Assembly Guide](https://crane.printm3d.com/m3d-crane-quad-quick-start-guide) |
 | [Network Setup](https://crane.printm3d.com/crane-bowden-guide/first-time-network-setup) | [Network Setup](https://crane.printm3d.com/crane-quad-guide/first-time-network-setup) |
+| [Duet Web Control First Look](https://crane.printm3d.com/crane-bowden-guide/intro-to-duet-web-control) | [Duet Web Control First Look ](https://crane.printm3d.com/crane-bowden-guide/intro-to-duet-web-control) |
 | [Bed/Nozzle Control](https://crane.printm3d.com/getting-started/heating-the-bed-and-nozzles) | [Bed/Nozzle Control](https://crane.printm3d.com/getting-started/heating-the-bed-and-nozzles) |
 | [Loading/Unloading Filament](https://crane.printm3d.com/m3d-crane-bowden-quick-start-guide#loading-and-unloading-filament) | [Loading/Unloading Filament](https://quadfusion.printm3d.com/printing-guides/new-loading-and-unloading-filament) |
 | Slicer Profile Guide | Slicer Profile Guide |
