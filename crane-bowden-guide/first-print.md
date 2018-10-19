@@ -1,14 +1,36 @@
 ---
-description: >-
-  This page will guide you through uploading and printing your first print via
-  Duet Web Control Interface.
+description: This page will guide you through uploading and printing your first print.
 ---
 
 # First Print
 
 Now that we've covered the very basics on the Duet Web Control Interface, and ran the Bed Leveling Assistant it's time to GET PRINTING. 
 
+## Test Prints: print the test prints first
+
+Before you start slicing and printing your own models it is highly recommended that you print the Test Prints that come pre-loaded for your M3D Crane Series printer. To ensure that your M3D Crane Series printer is operating exactly as intended, we've included several Test Prints that have been created in order to ensure optimal functionality. These test prints are already sliced and ready to go. You can access the Test Prints via the LCD screen Menu.  
+
+{% hint style="warning" %}
+Be sure to use the Sample Filament that came with your M3D Crane Series printer for your Test Print!!  
+{% endhint %}
+
+### To access the Test Prints:
+
+* Select **Prepare**
+* Move the knob to scroll through the Menu and Select **Test Prints**
+* Select **Basic Test Print**
+
+![Select Prepare](../.gitbook/assets/menu2.jpg)
+
+![](../.gitbook/assets/testprint2.jpg)
+
+![](../.gitbook/assets/testprint3.jpg)
+
+The Test Print will start running once selected. It may take several moments to start as the bed and the nozzle will need to get up to running temperature. Be sure to save detailed images of your Test Prints! 
+
 ## Uploading and Printing:
+
+After you have printed the Test Prints it's time to start printing your own models! Here you will be shown how to upload and print via the Duet Web Control Interface. 
 
 In the **upper right corner** of the Duet Web Control Interface click on the **Upload and Print** button. 
 
