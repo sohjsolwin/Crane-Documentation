@@ -18,6 +18,7 @@ Welcome and thank you for choosing the M3D Crane series of printers! From here y
 | :---: | :---: |
 | [Assembly Guide](https://crane.printm3d.com/crane-bowden-guide/crane-bowden-unboxing-assembly) | [Assembly Guide](https://crane.printm3d.com/crane-quad-guide/unboxing-and-assembly) |
 | [Network Setup](https://crane.printm3d.com/crane-bowden-guide/first-time-network-setup) | [Network Setup](https://crane.printm3d.com/crane-quad-guide/first-time-network-setup) |
+| [LCD Menu Navigation](https://crane.printm3d.com/crane-bowden-guide/lcd-menu-navigation) | [LCD Menu Navigation ](https://crane.printm3d.com/crane-quad-guide/lcd-menu-navigation)  |
 | [Duet Web Control First Look](https://crane.printm3d.com/crane-bowden-guide/intro-to-duet-web-control) | [Duet Web Control First Look](https://crane.printm3d.com/crane-quad-guide/first-look-at-duet-web-control-interface)  |
 | [Bed Leveling](https://crane.printm3d.com/crane-bowden-guide/manual-bed-leveling) | [Bed Leveling](https://crane.printm3d.com/crane-quad-guide/manual-bed-leveling-assistant) |
 | [Bed/Nozzle Control](https://crane.printm3d.com/crane-bowden-guide/heating-the-bed-and-the-nozzle) | [Bed/Nozzle Control](https://crane.printm3d.com/crane-quad-guide/heating-the-bed-and-the-nozzle) |
