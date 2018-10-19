@@ -87,5 +87,6 @@
 
 * [Unboxing and Assembly](crane-dual/unboxing-and-assembly.md)
 * [First time Network Setup](crane-dual/first-time-network-setup.md)
+* [LCD Menu Navigation](crane-dual/lcd-menu-navigation.md)
 * [Loading and Unloading Filament](crane-dual/loading-and-unloading-filament.md)
 
