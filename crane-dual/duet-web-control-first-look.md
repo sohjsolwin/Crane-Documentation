@@ -14,7 +14,7 @@ The Duet Web Control Interface provides a comprehensive way to monitor and make 
 
 ## Duet Web Control Interface First Look: {#duet-web-control-interface-first-look}
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LHsKN4t1c1PNlAAcU9y%2F-LP-5vz93KzLSBZHRNPk%2F-LP-9H6WvjshsigVvllx%2FDuet1.png?alt=media&token=6c072165-cb35-4184-9dbc-a37aa2fdae67)Duet Web Control Interface
+![](../.gitbook/assets/quadduet1.png)
 
 ## The upper portion of the Duet Web Control Interface will display real time information: {#the-upper-portion-of-the-duet-web-control-interface-will-display-real-time-information}
 
@@ -30,7 +30,9 @@ The **Machine Status** section displays the **current axis positions, extruder d
 
 ## Print Status Tab: {#print-status-tab}
 
-The **print status tab** will not display any information until a print is started, but once you have uploaded and started a print you will see **real time progress** as well as be able to **make changes in real time** to your print as it's printing, such as **micro stepping** or using the **Fan Control section**, changing **fan speeds and ratios.**![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LHsKN4t1c1PNlAAcU9y%2F-LP-KHnOi0PK10VX4-4_%2F-LP-SQWEQ_EBfoIFaQC7%2FDuet6.png?alt=media&token=13653cee-5309-47a2-b48a-a488f8bd9360)Print Status
+The **print status tab** will not display any information until a print is started, but once you have uploaded and started a print you will see **real time progress** as well as be able to **make changes in real time** to your print as it's printing, such as **micro stepping** or using the **Fan Control section**, changing **fan speeds and ratios.**
+
+![](../.gitbook/assets/duet6.png)
 
  The **Print control** section enables you to **pause, cancel or resume** a print, and allows you to make small adjustments to the Z axis called **Z baby stepping**. The **File information** section **displays select information about the gcode file you have uploaded** to print.
 

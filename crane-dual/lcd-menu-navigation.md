@@ -2,7 +2,9 @@
 
 ## Getting to know your M3D Crane Series printer's LCD Menu Display: {#getting-to-know-your-m-3-d-crane-series-printers-lcd-menu-display}
 
-Below is an image of the **Standby screen** of your M3D Crane Series printer. While in **Standby** mode, or while it's not actively printing the LCD screen will display the following information:![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LHsKN4t1c1PNlAAcU9y%2F-LP8V1WBkO_I84NiZxoO%2F-LP8Vc__lXKveclc8so-%2FMenu2.jpg?alt=media&token=cac25d2e-36b6-4476-9c8b-5d0358b38a27)LCD Standby Menu
+Below is an image of the **Standby screen** of your M3D Crane Series printer. While in **Standby** mode, or while it's not actively printing the LCD screen will display the following information:
+
+![](../.gitbook/assets/menu2.jpg)
 
 * **Nozzle**: this will display the nozzle's **current temperature as well as the nozzle's set temperature**. To **Set the Nozzle Temp** simply move the knob in order to **highlight the temperature values** in the Nozzle row. Once highlighted, **depress the knob once to select**, then **turn the knob until the desired temperature is displayed** and select by depressing the knob once more.
 * **Bed**: this will display the c**urrent bed temperature** as well as the **set bed temperature**. To set the Bed Temp, simply follow the directions as if you were changing the nozzle temp but apply them to the Bed row.
