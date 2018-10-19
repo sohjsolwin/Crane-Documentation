@@ -82,6 +82,7 @@
 * [Heating the Bed and the Nozzle](crane-quad-guide/heating-the-bed-and-the-nozzle.md)
 * [Loading and Unloading Filament](crane-quad-guide/loading-and-unloading-filament.md)
 * [Finding and Slicing a Model](crane-quad-guide/finding-and-slicing-a-model.md)
+* [First Print](crane-quad-guide/first-print.md)
 
 ## Crane Dual
 
@@ -93,4 +94,5 @@
 * [Heating the bed and the Nozzle](crane-dual/heating-the-bed-and-the-nozzle.md)
 * [Loading and Unloading Filament](crane-dual/loading-and-unloading-filament.md)
 * [Finding and Slicing Your Model](crane-dual/finding-and-slicing-your-model.md)
+* [First Print](crane-dual/first-print.md)
 
