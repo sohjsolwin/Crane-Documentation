@@ -76,6 +76,7 @@
 
 * [Unboxing and Assembly](crane-quad-guide/unboxing-and-assembly.md)
 * [First time Network Setup](crane-quad-guide/first-time-network-setup.md)
+* [LCD Menu Navigation](crane-quad-guide/lcd-menu-navigation.md)
 * [First Look at Duet Web Control Interface](crane-quad-guide/first-look-at-duet-web-control-interface.md)
 * [Manual Bed Leveling Assistant](crane-quad-guide/manual-bed-leveling-assistant.md)
 * [Heating the Bed and the Nozzle](crane-quad-guide/heating-the-bed-and-the-nozzle.md)
