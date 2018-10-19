@@ -22,7 +22,7 @@ Welcome and thank you for choosing the M3D Crane series of printers! From here y
 | [Bed Leveling](https://crane.printm3d.com/crane-bowden-guide/manual-bed-leveling) | [Bed Leveling](https://crane.printm3d.com/crane-quad-guide/manual-bed-leveling-assistant) |
 | [Bed/Nozzle Control](https://crane.printm3d.com/crane-bowden-guide/heating-the-bed-and-the-nozzle) | [Bed/Nozzle Control](https://crane.printm3d.com/crane-quad-guide/heating-the-bed-and-the-nozzle) |
 | [Loading/Unloading Filament](https://crane.printm3d.com/crane-bowden-guide/loading-and-unloading-filament) | [Loading/Unloading Filament](https://crane.printm3d.com/crane-quad-guide/loading-and-unloading-filament) |
-| [Slicing your Model](https://crane.printm3d.com/crane-bowden-guide/slicing-and-printing-your-first-model) | [Slicing your Model](https://crane.printm3d.com/crane-bowden-guide/slicing-and-printing-your-first-model) |
+| [Slicing your Model](https://crane.printm3d.com/crane-bowden-guide/slicing-and-printing-your-first-model) | [Slicing your Model](https://crane.printm3d.com/crane-quad-guide/finding-and-slicing-a-model) |
 | [Your First Print](https://crane.printm3d.com/crane-bowden-guide/first-print) | [Your First Print](https://crane.printm3d.com/crane-bowden-guide/first-print) |
 
 
