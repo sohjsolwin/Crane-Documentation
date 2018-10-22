@@ -32,7 +32,7 @@ The **Machine Status** section displays the **current axis positions, extruder d
 
 The **print status tab** will not display any  information until a print is started, but once you have uploaded and started a print you will see **real time progress** as well as be able to **make changes in real time** to your print as it's printing, such as **micro stepping** or using the **Fan Control section**, changing **fan speeds and ratios.**  
 
-![Print Status](../.gitbook/assets/duet6.png)
+![Print Status](../.gitbook/assets/duet6%20%281%29.png)
 
  The **Print control** section enables you to **pause, cancel or resume** a print, and allows you to make small adjustments to the Z axis called **Z baby stepping**. The **File information** section **displays select information about the gcode file you have uploaded** to print. 
 

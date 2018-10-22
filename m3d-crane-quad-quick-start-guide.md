@@ -6,7 +6,7 @@
 The M3D Crane Quad contains sensitive electronics, delicate mechanical parts, and an electrical heating system. Please exercise all applicable safety precautions and follow this guide closely to avoid damage to your M3D Crane Quad, to avoid injury to yourself or others, and insure proper operation.
 {% endhint %}
 
-## Setting up after unboxing your printer: {#gmail-setting-up-after-un-boxing-your-printer}
+## Setting up after unboxing your printer: <a id="gmail-setting-up-after-un-boxing-your-printer"></a>
 
 After removing your M3D Crane Quad from the box, remove all the plastic wrapping being careful not to cut any of the sensitive parts of the device, such as the cables. Your M3D Crane Quad should look like this:
 
@@ -28,7 +28,7 @@ Inspect your M3D Crane Quad for any damage that may have occurred during shippin
 
  As long as no issues are discovered, you are ready for mechanical assembly. 
 
-## Assembly: {#gmail-assembly}
+## Assembly: <a id="gmail-assembly"></a>
 
 Being careful not to stress or pull any of the cables, have a friend assist you in raising the upright rails; be sure to **align the bolt holes**.
 
@@ -60,7 +60,7 @@ Once your M3D Crane Quad is complete it should look like this:
 
 ![](.gitbook/assets/quad.png)
 
-## First steps with your M3D Crane Quad: {#gmail-first-steps-with-your-m-3-d-crane-bowden}
+## First steps with your M3D Crane Quad: <a id="gmail-first-steps-with-your-m-3-d-crane-bowden"></a>
 
 Once your M3D Crane Quad is assembled and powered on, follow these steps to printing your first test print. The M3D Crane Quad comes with a [**test print pre-loaded on it's SD card**](https://www.thingiverse.com/thing:170922/files). This print is very important as it will be used to make sure your M3D Crane Quad is calibrated correctly.
 
@@ -93,7 +93,7 @@ Verify that wiring between the Duet 2 Maestro and the M3D Crane \(including wiri
 **Be sure to set the temperature to 170C** **Not doing this will cause backflow up the nozzles chambers that will block future loadings!**
 {% endhint %}
 
-## **Loading Sequence** {#loading-sequence}
+## **Loading Sequence** <a id="loading-sequence"></a>
 
 1. Insert your chosen filament in to Port 0 and hold it at a curved angle. \(Use the natural curve of the filament to match the curves shown below to minimize any risk of missing the curve path\)
 
@@ -104,7 +104,7 @@ Verify that wiring between the Duet 2 Maestro and the M3D Crane \(including wiri
 4. If at any point filament gets stuck proceed to troubleshooting \(Retract and try again. TBD\)
 5. Repeat the above procedure for extruder drive 2 and THEN with ports 1 and 3.
 
-## Extrusion: {#extrusion}
+## Extrusion: <a id="extrusion"></a>
 
 * Set the temp to 240C \(nozzle may ooze ignore it\)
 * Change settings to extrude all at 15mm/s and leave the extrude amount at 20mm.
@@ -112,7 +112,7 @@ Verify that wiring between the Duet 2 Maestro and the M3D Crane \(including wiri
 * Hit extrude \(Waiting between steps\) until filament comes out at a steady speed.
 * Be sure that no motors are skipping \(if they are see our troubleshooting section TBD\)
 
-## Unloading: {#unloading}
+## Unloading: <a id="unloading"></a>
 
 * Set Nozzle Temperature to 170C.
 * Change setting to Extrude All, Extrude at 15mm/s and set the extrusion amount at 100mm

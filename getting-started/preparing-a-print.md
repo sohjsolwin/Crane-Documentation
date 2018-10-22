@@ -72,7 +72,7 @@ This window allows you to configure the printer settings of the Crane. This info
 
 Once you have added the printer make sure to activate it by selecting the name and then clicking the button _Activate._
 
-### Importing the Printer Profile {#importing-the-printer-profile}
+### Importing the Printer Profile <a id="importing-the-printer-profile"></a>
 
 The next step is to go to the M3D GitHub Crane repository, in the [Cura Profiles folder](https://github.com/PrintM3D/Crane/tree/devel/Cura%20Profiles) and download the Cura profile for your extruder setup. In order to download the Cura Profile, click on the file in GitHub and then press the Download button as seen in the image below, outline in red. This profile contains all kinds of print settings that help the Crane print well. You can find and tune these settings through experimentation at a later time. For now, this default profile will work well.
 
@@ -110,7 +110,7 @@ Use the b~~u~~ttons on the left of the window in order to orient and position th
 
 ![Make sure parts are oriented correctly, this might not print correctly without support.](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LH1ZPQUJrjMM5Ql5c--%2F-LHJ14S2auLuan3N_dt1%2F-LHJEPcsaawWWniBiGlq%2Fdontcurathisway2.png?alt=media&token=f00b408f-3fdc-4498-b16a-10d596e2f539)
 
-### Configuring Print Settings {#configuring-print-settings}
+### Configuring Print Settings <a id="configuring-print-settings"></a>
 
 Next, we will configure the print settings in Cura. This will all take place on the right side of the Cura window. In a tab called _Custom._
 

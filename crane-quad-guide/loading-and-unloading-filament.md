@@ -19,7 +19,7 @@ Verify that wiring between the Duet 2 Maestro and the M3D Crane \(including wiri
 **Be sure to set the temperature to 170C** **Not doing this will cause backflow up the nozzles chambers that will block future loadings!**
 {% endhint %}
 
-## **Loading Sequence** {#loading-sequence}
+## **Loading Sequence** <a id="loading-sequence"></a>
 
 1. Insert your chosen filament in to Port 0 and hold it at a curved angle. \(Use the natural curve of the filament to match the curves shown below to minimize any risk of missing the curve path\)
 
@@ -30,7 +30,7 @@ Verify that wiring between the Duet 2 Maestro and the M3D Crane \(including wiri
 4. If at any point filament gets stuck proceed to troubleshooting \(Retract and try again. TBD\)
 5. Repeat the above procedure for extruder drive 2 and THEN with ports 1 and 3.
 
-## Extrusion: {#extrusion}
+## Extrusion: <a id="extrusion"></a>
 
 * Set the temp to 240C \(nozzle may ooze ignore it\)
 * Change settings to extrude all at 15mm/s and leave the extrude amount at 20mm.
@@ -38,7 +38,7 @@ Verify that wiring between the Duet 2 Maestro and the M3D Crane \(including wiri
 * Hit extrude \(Waiting between steps\) until filament comes out at a steady speed.
 * Be sure that no motors are skipping \(if they are see our troubleshooting section TBD\)
 
-## Unloading: {#unloading}
+## Unloading: <a id="unloading"></a>
 
 * Set Nozzle Temperature to 170C.
 * Change setting to Extrude All, Extrude at 15mm/s and set the extrusion amount at 100mm

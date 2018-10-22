@@ -8,7 +8,7 @@ description: >-
 
 Connecting to your M3D Crane Series Printer via your local network is very useful as you get access to the **Duet Web Console**. You can connect your M3D Crane Series Printer to your local network via the **Ethernet port on the Duet Maestro.** Once the network settings are properly configured, you will be able to connect to the **Duet board** and access the **Duet Web Console**.
 
-## First-Time Start-up {#first-time-start-up}
+## First-Time Start-up <a id="first-time-start-up"></a>
 
 {% hint style="info" %}
 The M3D Crane Series printers are pre-configured to easily work with the most common network configuration, **DHCP**. If however you have a more complex network configuration set up it may be necessary to further edit your network settings.

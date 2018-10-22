@@ -10,7 +10,7 @@ description: >-
 There are several options available to control your M3D Crane Series printer. We recommend using the menus provided within the Duet Web Control Interface, however you can also control it via the gcode tab within the Duet Web Control Interface by typing in gcode commands directly, or you can control your M3D Crane Series printer manually through the menu on the LCD screen. This guide will focus on using the menu options inside the Duet Web Control Interface. The other options will be covered elsewhere in the guide.
 {% endhint %}
 
-## Using Duet Web Control Interface to Heat the print bed: {#using-duet-web-control-interface-to-heat-the-print-bed}
+## Using Duet Web Control Interface to Heat the print bed: <a id="using-duet-web-control-interface-to-heat-the-print-bed"></a>
 
 {% hint style="warning" %}
 Prior to every heating of the nozzles or the bed, check the temperature readouts in the _Current_ column on the Duet Web Console. These values should be in the 20°C - 250°C. A value of 2000°C, indicates a problem in the wiring of the thermistor. Fix the issue prior to activating the heaters.
@@ -32,7 +32,7 @@ You can monitor the heating of your bed in both the **Tools** as well as the **T
 
 ![](../.gitbook/assets/duet9.png)
 
-## **Heating the Nozzles with Duet Web Console:** {#heating-the-nozzles-with-duet-web-console}
+## **Heating the Nozzles with Duet Web Console:** <a id="heating-the-nozzles-with-duet-web-console"></a>
 
 In the **Duet Web Control Interface** find the table **Tools/Heaters/Extra**, pictured below. You will be selecting **Tool 0**, which represents your nozzle. Once your tool \(**Tool 0**\) is selected, simply change the **Active temperature from 0C to your desired temperature**.
 

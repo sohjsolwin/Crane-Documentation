@@ -1,6 +1,6 @@
 # LCD Menu Navigation
 
-## Getting to know your M3D Crane Series printer's LCD Menu Display: {#getting-to-know-your-m-3-d-crane-series-printers-lcd-menu-display}
+## Getting to know your M3D Crane Series printer's LCD Menu Display: <a id="getting-to-know-your-m-3-d-crane-series-printers-lcd-menu-display"></a>
 
 Below is an image of the **Standby screen** of your M3D Crane Series printer. While in **Standby** mode, or while it's not actively printing the LCD screen will display the following information:
 
@@ -12,7 +12,7 @@ Below is an image of the **Standby screen** of your M3D Crane Series printer. Wh
 * **IP**: this displays the **IP address of your M3D Crane Series printer on your network**. The **Network Setup** section of this guide shows how to access the **Duet Web Control Interface** via this IP address. The displayed values of the IP address are not able to be selected nor changed from this menu.
 * **Prepare**: selecting Prepare will change the LCD screen Menu to an additional menu page.
 
-## Prepare: Or Main Menu page 2 {#prepare-or-main-menu-page-2}
+## Prepare: Or Main Menu page 2 <a id="prepare-or-main-menu-page-2"></a>
 
 * **Back to Main**: selecting Back to Main will bring you back to the Main, or Standby menu.
 * Move Axis:
@@ -22,7 +22,7 @@ Below is an image of the **Standby screen** of your M3D Crane Series printer. Wh
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LHsKN4t1c1PNlAAcU9y%2F-LP8V1WBkO_I84NiZxoO%2F-LP8_MAod6SUzPvrIkK_%2FMenu1.jpg?alt=media&token=ec5f3cdb-e1d6-4751-964e-7b8ebe9eb275)
 
-## Main Menu Page 3: {#main-menu-page-3}
+## Main Menu Page 3: <a id="main-menu-page-3"></a>
 
 * **Auto Home Z**: this will Auto Home **ONLY the Z axis.**
 * **Test Movements:** this will run your M3D Crane Series printer through a series of Test Movements.

@@ -4,7 +4,7 @@
 The M3D Crane Bowden contains sensitive electronics, delicate mechanical parts, and an electrical heating system. Please exercise all applicable safety precautions and follow this guide closely to avoid damage to your M3D Crane Bowden, to avoid injury to yourself or others, and insure proper operation.
 {% endhint %}
 
-## Setting up after unboxing your printer: {#gmail-setting-up-after-un-boxing-your-printer}
+## Setting up after unboxing your printer: <a id="gmail-setting-up-after-un-boxing-your-printer"></a>
 
 After removing your M3D Crane Bowden from the box, remove all the plastic wrapping being careful not to cut any of the sensitive parts of the device, such as the cables. Your M3D Crane Bowden should look like this:
 
@@ -26,7 +26,7 @@ Inspect your M3D Crane Bowden for any damage that may have occurred during shipp
 
  As long as no issues are discovered, you are ready for mechanical assembly. 
 
-## Assembly: {#gmail-assembly}
+## Assembly: <a id="gmail-assembly"></a>
 
 Being careful not to stress or pull any of the cables, have a friend assist you in raising the upright rails; be sure to **align the bolt holes**.
 
@@ -58,7 +58,7 @@ Once your M3D Crane Bowden is complete it should look like this:
 
 ![](.gitbook/assets/image%20%286%29.png)
 
-## First steps with your M3D Crane Bowden: {#gmail-first-steps-with-your-m-3-d-crane-bowden}
+## First steps with your M3D Crane Bowden: <a id="gmail-first-steps-with-your-m-3-d-crane-bowden"></a>
 
 Once your M3D Crane Bowden is assembled and powered on, follow these steps to printing your first test print. The M3D Crane Bowden comes with a [**test print pre-loaded on it's SD card**](https://www.thingiverse.com/thing:170922/files). This print is very important as it will be used to make sure your M3D Crane Bowden is calibrated correctly.
 
@@ -78,7 +78,7 @@ It is recommended to **extrude 50 to 100 mm** of filament to ensure correct load
 
 To **Unload the Filament** simply maintain your nozzle temperature **while depressing the leaver on the extruder. \(This will disengage the extruder gears so the filament will be free to move\)** Grab hold of the filament and pull it out with a sweeping, fluid motion. The filament will be slide up and out of the nozzle, out of the bowden tube and out the extruder.  
 
-## Slicing and Printing the first model: {#gmail-slicing-and-printing-the-first-model}
+## Slicing and Printing the first model: <a id="gmail-slicing-and-printing-the-first-model"></a>
 
 Now that you have printed the test print that came on the SD card of your M3D Crane Bowden, you can now move on to finding, slicing and printing your own 3D models!
 

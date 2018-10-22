@@ -1,6 +1,6 @@
 # Finding and Slicing a Model
 
-## Slicing and Printing the first model: {#gmail-slicing-and-printing-the-first-model}
+## Slicing and Printing the first model: <a id="gmail-slicing-and-printing-the-first-model"></a>
 
 You may choose to create your own 3D models with software such as [Autodesk's Fusion 360](https://www.autodesk.com/products/fusion-360/overview), or[ Openscad](http://www.openscad.org/downloads.html), however you may wish to start printing models that are already available for download. You can find free models for 3D printing at [Thingiverse](https://www.thingiverse.com/), or you can try a few from [this list](https://all3dp.com/1/free-stl-files-3d-printer-models-3d-print-files-stl-download/).
 
@@ -44,7 +44,7 @@ The **starting and ending G-code** is a series of commands that are run at the s
 
 Once you have added the printer make sure to activate it by selecting the name and then clicking the button **Activate**_._
 
-### Importing the Printer Profile {#importing-the-printer-profile}
+### Importing the Printer Profile <a id="importing-the-printer-profile"></a>
 
 In Cura, open the Preferences again by clicking _Preferences &gt; Configure Cura._ Click _Profiles &gt; Import_. Then a window will pop up that will allow you to navigate to the profile you just downloaded. It will most likely be in the _Downloads_ folder.
 

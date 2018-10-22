@@ -6,7 +6,7 @@
 The M3D Crane Quad contains sensitive electronics, delicate mechanical parts, and an electrical heating system. Please exercise all applicable safety precautions and follow this guide closely to avoid damage to your M3D Crane Quad, to avoid injury to yourself or others, and insure proper operation.
 {% endhint %}
 
-## Setting up after unboxing your printer: {#gmail-setting-up-after-un-boxing-your-printer}
+## Setting up after unboxing your printer: <a id="gmail-setting-up-after-un-boxing-your-printer"></a>
 
 After removing your M3D Crane Quad from the box, remove all the plastic wrapping being careful not to cut any of the sensitive parts of the device, such as the cables. Your M3D Crane Quad should look like this:
 
@@ -28,7 +28,7 @@ Inspect your M3D Crane Quad for any damage that may have occurred during shippin
 
  As long as no issues are discovered, you are ready for mechanical assembly. 
 
-## Assembly: {#gmail-assembly}
+## Assembly: <a id="gmail-assembly"></a>
 
 Being careful not to stress or pull any of the cables, have a friend assist you in raising the upright rails; be sure to **align the bolt holes**.
 
