@@ -22,9 +22,9 @@ Be sure to use the Sample Filament that came with your M3D Crane Series printer 
 
 ![Select Prepare](../.gitbook/assets/menu2.jpg)
 
-![](../.gitbook/assets/testprint2.jpg)
+![Test Print](../.gitbook/assets/newtestprint2.jpg)
 
-![](../.gitbook/assets/testprint3.jpg)
+![Basic Test Print ](../.gitbook/assets/newtestprint.jpg)
 
 The Test Print will start running once selected. It may take several moments to start as the bed and the nozzle will need to get up to running temperature. Be sure to save detailed images of your Test Prints! 
 
