@@ -34,7 +34,7 @@ Next, press **Custom**_._ This indicates we are adding a custom printer to Cura'
 
 This window allows you to **configure the printer settings** of your M3D Crane Series printer. This informs Cura of the M3D Crane Series printer's build space, the firmware flavor and specifies starting and ending G-code. 
 
-The **build volume** of the printer represents the **maximum value that the printer can travel in each directio**n.
+The **build volume** of the printer represents the **maximum value that the printer can travel in each direction**.
 
  The **firmware flavor** is the type of firmware that the board is running. The Duet Maestro board runs on **RepRap firmware**. Your firmware flavor indicates what type of commands the board can understand. 
 
