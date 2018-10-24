@@ -33,5 +33,22 @@ Below is an image of the **Standby screen** of your M3D Crane Series printer. Wh
 
 ![](../.gitbook/assets/menu4.jpg)
 
+
+
+## Active Print Mode Menu:
+
+The **Active Print Mode Menu** gives you a different set of options while your M3D Crane Series printer is actively printing. Instead of seeing Prepare in the bottom right corner of your LCD menu, while in print mode your M3D Crane Series will display **Tune:**
+
+![Print Mode Menu ](../.gitbook/assets/printmodemenu.jpg)
+
+The Tune Menu will give you control over various aspects of your print while it's printing.
+
+![Tune Menu](../.gitbook/assets/tunemenu.jpg)
+
+* **Thermal Tuning:** this will allow you to control fan settings. 
+* **Pause/Resume:** Pause allows you to pause your print at any time, while in pause mode the Resume option will be available, this will resume the print from the point at which it was paused.  
+* **Baby Step Z:** this will move the Z axis in positive or negative .01 or .05mm "baby" movements.  
+* **Cancel Active Print:** will allow you to Cancel the print at any time should you choose to for any reason. 
+
 There are other aspects of the menu such as the Preheat various materials options. Those shall be discussed in additional guides. 
 

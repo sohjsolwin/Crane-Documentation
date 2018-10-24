@@ -53,3 +53,5 @@ The Tune Menu will give you control over various aspects of your print while it'
 * **Baby Step Z:** this will move the Z axis in positive or negative .01 or .05mm "baby" movements.  
 * **Cancel Active Print:** will allow you to Cancel the print at any time should you choose to for any reason. 
 
+
+
