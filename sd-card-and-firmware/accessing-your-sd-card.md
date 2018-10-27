@@ -11,11 +11,11 @@ description: >-
 
 Updating any configuration or G-code files without connecting to your printer is possible by changing the required files on the microSD card. The microSD card is located in a microSD port on the Crane's Duet Maestro board. By pushing the microSD card into the board, as the arrow indicates in the image below, the microSD card will be released from the board. The microSD port and the Duet Maestro are sensitive, so be careful when removing microSD cards.
 
-![Location of the microSD Port on the Duet Board](.gitbook/assets/4acsznaovomcf09t-duetmaestro_sdarrow.jpg)
+![Location of the microSD Port on the Duet Board](../.gitbook/assets/4acsznaovomcf09t-duetmaestro_sdarrow.jpg)
 
 You can plug the microSD card into the microSD card reader included with your Crane. The microSD card reader can then be plugged into your computer's USB port. The microSD card should then appear as a drive to your computer. You will now be able to download and change any of the files on this card.
 
-![SD Card Structure](.gitbook/assets/lookansdcardstructure.png)
+![SD Card Structure](../.gitbook/assets/lookansdcardstructure.png)
 
 ## Opening the introduction video
 

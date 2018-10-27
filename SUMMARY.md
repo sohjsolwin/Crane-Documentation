@@ -6,8 +6,6 @@
 * [M3D Crane Quad Quick Start Guide \(new\)](m3d-crane-quad-quick-start-guide.md)
 * [M3D Crane Dual Quick Start Guide \(new\)](m3d-crane-dual-quick-start-guide.md)
 * [M3D Crane Bowden Advanced  Tuning](m3d-crane-bowden-advanced-tuning.md)
-* [SD card Structure](sd-card-structure.md)
-* [Accessing Your SD Card](accessing-your-sd-card.md)
 * [Getting Started](getting-started/README.md)
   * [Critical Warnings & Information](getting-started/critical-warnings-and-information.md)
   * [Network Setup](getting-started/network-setup.md)
@@ -35,7 +33,6 @@
   * [\(Edit details & pictures\) Extruder Assembly Wiring](electrical-guides/extruder-assembly-wiring.md)
   * [The Electrical Standard](electrical-guides/the-electrical-standard.md)
 * [Firmware Guides](firmware-guides/README.md)
-  * [Updating Firmware](firmware-guides/updating-firmware.md)
   * [Adjusting Homing Macros](firmware-guides/adjusting-homing-macros.md)
   * [Macros](firmware-guides/macros.md)
   * [\(Edit details\) Help! My Extruders are Backwards](firmware-guides/help-my-extruders-are-backwards.md)
@@ -95,4 +92,10 @@
 * [Loading and Unloading Filament](crane-dual/loading-and-unloading-filament.md)
 * [Finding and Slicing Your Model](crane-dual/finding-and-slicing-your-model.md)
 * [First Print](crane-dual/first-print.md)
+
+## SD card and Firmware
+
+* [Accessing Your SD Card](sd-card-and-firmware/accessing-your-sd-card.md)
+* [SD card Structure](sd-card-and-firmware/sd-card-structure.md)
+* [Updating Firmware](sd-card-and-firmware/updating-firmware.md)
 
