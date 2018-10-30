@@ -99,4 +99,5 @@
 ## Changelog
 
 * [Changelog](changelog/changelog.md)
+* [Attributions](changelog/attributions.md)
 
