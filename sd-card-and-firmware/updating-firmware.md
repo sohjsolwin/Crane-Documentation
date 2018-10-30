@@ -1,12 +1,22 @@
 # Firmware/Configuration
 
+{% hint style="info" %}
+Updating your firmware is important in order to obtain the latest features and bug fixes. The Duet Maestro board uses a fork of RepRap firmware to control a 3D printer. 
+{% endhint %}
+
 ## Firmware:
 
 The version of the Duet Firmware we are currently running is: **2.02RC2**
 
-Updating your firmware can be important to obtain the latest features and bug fixes. The Duet Maestro board uses a fork of RepRap firmware to control a 3D printer. The latest firmware can be found on DC42's [GitHub Page](https://github.com/dc42/RepRapFirmware/releases). There you can download the _**.bin**_ firmware files and, most importantly, read the change log. Note that some firmware releases are experimental and will be classified as an early-release. This means there is a higher risk of unintended bugs in the firmware version.
+Here are the direct download links you will need to update your firmware as well as your Duet Web Control:
 
+ [Duet Web Control](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC2/DuetWebControl-1.22.3.zip)
+
+[Firmware](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC2/DuetMaestroFirmware.bin)
+
+{% hint style="danger" %}
 **Warning: Updating your firmware can cause unintended consequences. Be aware that upgrading or downgrading to unstable firmware versions can cause unexpected bugs and issues. Use caution!**
+{% endhint %}
 
 ## Identifying Firmware Version
 
