@@ -18,7 +18,7 @@ Pre-configured network settings are loaded onto every SD card before the printer
 
 Once connected via **Ethernet** your ****M3D Crane Series printer will display an **IP address** on the Main Menu of the LCD screen. 
 
-![](../.gitbook/assets/ipmainmenu.jpg)
+![IP address displayed on the LCD Main Menu screen](../.gitbook/assets/ipmainmenu.jpg)
 
 After your printer has had the time to start up, direct your browser to the address http://&lt;IP address&gt;. If the connection is successful the **Duet Web Control** should be shown. 
 
