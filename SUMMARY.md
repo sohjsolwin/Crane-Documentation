@@ -94,7 +94,7 @@
 
 * [Accessing Your SD Card](sd-card-and-firmware/accessing-your-sd-card.md)
 * [SD card Structure](sd-card-and-firmware/sd-card-structure.md)
-* [Updating Firmware](sd-card-and-firmware/updating-firmware.md)
+* [Firmware/Configuration](sd-card-and-firmware/updating-firmware.md)
 
 ## Changelog
 

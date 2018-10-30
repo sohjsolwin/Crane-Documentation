@@ -1,6 +1,10 @@
-# Updating Firmware
+# Firmware/Configuration
 
-Updating your firmware can be important to obtain the latest features and bug fixes. The Duet Maestro board uses a fork of RepRap firmware to control a 3D printer. The latest firmware can be found on DC42's [GitHub Page](https://github.com/dc42/RepRapFirmware/releases). There you can download the _.bin_ firmware files and, most importantly, read the change log. Note that some firmware releases are experimental and will be classified as an early-release. This means there is a higher risk of unintended bugs in the firmware version.
+## Firmware:
+
+The version of the Duet Firmware we are currently running is: **2.02RC2**
+
+Updating your firmware can be important to obtain the latest features and bug fixes. The Duet Maestro board uses a fork of RepRap firmware to control a 3D printer. The latest firmware can be found on DC42's [GitHub Page](https://github.com/dc42/RepRapFirmware/releases). There you can download the _**.bin**_ firmware files and, most importantly, read the change log. Note that some firmware releases are experimental and will be classified as an early-release. This means there is a higher risk of unintended bugs in the firmware version.
 
 **Warning: Updating your firmware can cause unintended consequences. Be aware that upgrading or downgrading to unstable firmware versions can cause unexpected bugs and issues. Use caution!**
 
@@ -12,15 +16,15 @@ In order to find out if you want to update the firmware on the Duet Maestro you 
 
 ## Upgrading System Firmware via the Duet Web Console
 
-1. Download the desired firmware version from DC42's github page. This will be a _.bin_ or binary file called _DuetMaestroFirmware.bin_.
-2. Download the _iap4s.bin_ file, this is necessary in order to update the firmware.
-3. Go to the settings tab of the Duet Web Console and find the _Upload File\(s\)_ button. Note: this is not for uploading prints. Files uploaded here will be stored in the _sys/_ directory of the microSD card. Upload the _iap4s.bin_ and _DuetMaestroFirmware.bin_ files.
+1. Download the desired firmware version from DC42's github page. This will be a _.bin_ or binary file called _**DuetMaestroFirmware.bin**_.
+2. Download the ****_**iap4s.bin**_ file, this is necessary in order to update the firmware.
+3. Go to the settings tab of the Duet Web Console and find the ****_**Upload File\(s\)**_ button. Note: this is not for uploading prints. Files uploaded here will be stored in the ****_**sys/**_ ****directory of the microSD card. Upload the _**iap4s.bin**_ and _**DuetMaestroFirmware.bin**_ files.
 
    ![aosmza6ID0m8KJ7A-uploadsysfiles.png](../.gitbook/assets/aosmza6id0m8kj7a-uploadsysfiles.png)
 
-4. Once both files are uploaded successfully, go to the _G-code Console_. Send the command `M997 S0`. This will begin the process of upgrading Duet firmware.
-5. When the firmware upgrade is completed, you can visit the _Settings_ tab in order to ensure that the _Firmware Version_ has been updated to the preferred version. 
-6. If you prefer, you can now delete the _iap4s.bin_ and _DuetMaestroFirmware.bin_ files from the _sys/_ directory.
+4. Once both files are uploaded successfully, go to the ****_**G-code Console**_. Send the command `M997 S0`. This will begin the process of upgrading Duet firmware.
+5. When the firmware upgrade is completed, you can visit the _**Settings**_ ****tab in order to ensure that the _**Firmware Version**_ has been updated to the preferred version. 
+6. If you prefer, you can now delete the _**iap4s.bin**_ and ****_**DuetMaestroFirmware.bin**_ files from the ****_**sys/**_ directory.
 
 ## Other Resources
 
