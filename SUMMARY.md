@@ -51,7 +51,6 @@
   * [\(Edit pictures\) Heater Troubleshooting](troubleshooting-guides/heater-troubleshooting.md)
 * [Heating the Bed and Nozzles](heating-the-bed-and-nozzles.md)
 * [Community Guides](community-guides/README.md)
-  * [Community Submissions](community-guides/community-submissions.md)
   * [Community Guide Template](community-guides/community-guide-template.md)
 
 ## Crane Bowden Guide
@@ -99,5 +98,9 @@
 ## Changelog
 
 * [Changelog](changelog/changelog.md)
-* [Attributions](changelog/attributions.md)
+
+## Community Submissions/Attributions
+
+* [Community Submissions](community-submissions-attributions/community-submissions.md)
+* [Attributions](community-submissions-attributions/attributions.md)
 
