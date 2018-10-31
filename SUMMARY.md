@@ -1,10 +1,9 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Critical Warnings & Information](critical-warnings-and-information.md)
 * [Crane Configurations](welcome-new.md)
-* [M3D Crane Advanced  Tuning](m3d-crane-bowden-advanced-tuning.md)
 * [Getting Started](getting-started/README.md)
-  * [Critical Warnings & Information](getting-started/critical-warnings-and-information.md)
   * [Network Setup](getting-started/network-setup.md)
   * [Accessing Web Interface](getting-started/accessing-web-interface.md)
   * [Updating SD Card Structure](getting-started/updating-sd-card-structure.md)
@@ -13,10 +12,8 @@
   * [Preparing a Print](getting-started/preparing-a-print.md)
   * [Running a Print](getting-started/running-a-print.md)
   * [\(Insert Quad\) An Introduction to Tools](getting-started/an-introduction-to-tools.md)
-  * [Important G-Code Commands](getting-started/important-g-code-commands.md)
   * [Getting Started: Where to Go From Here](getting-started/getting-started-where-to-go-from-here.md)
 * [Beginner Guides](beginner-guides/README.md)
-  * [Beginner: Preparation](beginner-guides/beginner-preparation.md)
   * [\(Edit pictures\) Beginner: Printer Assemblies](beginner-guides/beginner-printer-assemblies.md)
   * [\(Edit details\) Beginner: Printer Coordinates](beginner-guides/beginner-printer-coordinates.md)
   * [Beginner: Moving the Motors](beginner-guides/beginner-moving-the-motors.md)
@@ -30,7 +27,6 @@
   * [\(Edit details & pictures\) Extruder Assembly Wiring](electrical-guides/extruder-assembly-wiring.md)
   * [The Electrical Standard](electrical-guides/the-electrical-standard.md)
 * [Firmware Guides](firmware-guides/README.md)
-  * [Adjusting Homing Macros](firmware-guides/adjusting-homing-macros.md)
   * [Macros](firmware-guides/macros.md)
   * [\(Edit details\) Help! My Extruders are Backwards](firmware-guides/help-my-extruders-are-backwards.md)
   * [\(Insert Quad\) Tool Definitions](firmware-guides/tool-definitions.md)
@@ -42,7 +38,6 @@
 * [Repair Guides](repair-guides/README.md)
   * [Troubleshooting the Extruder](repair-guides/troubleshooting-the-extruder.md)
 * [Maintenance Guides](maintenance-guides/README.md)
-  * [Temperature Calibration](maintenance-guides/temperature-calibration.md)
   * [\(Edit details and pictures\) Belt Tensioning and Mechanical Leveling](maintenance-guides/belt-tensioning-and-mechanical-leveling.md)
   * [Screw and Tool List](maintenance-guides/screw-and-tool-list.md)
   * [\(Insert Quad\) Changing Nozzles](maintenance-guides/changing-nozzles.md)
@@ -50,8 +45,6 @@
   * [Troubleshooting Duet Web Console](troubleshooting-guides/troubleshooting-duet-web-console.md)
   * [\(Edit pictures\) Heater Troubleshooting](troubleshooting-guides/heater-troubleshooting.md)
 * [Heating the Bed and Nozzles](heating-the-bed-and-nozzles.md)
-* [Community Guides](community-guides/README.md)
-  * [Community Guide Template](community-guides/community-guide-template.md)
 
 ## Crane Bowden Guide
 
@@ -94,6 +87,12 @@
 * [Accessing Your SD Card](sd-card-and-firmware/accessing-your-sd-card.md)
 * [SD card Structure](sd-card-and-firmware/sd-card-structure.md)
 * [Firmware/Configuration](sd-card-and-firmware/updating-firmware.md)
+
+## Advanced Tuning M3D Crane Series
+
+* [Important G-Code Commands](advanced-tuning-m3d-crane-series/important-g-code-commands.md)
+* [Temperature Calibration](advanced-tuning-m3d-crane-series/temperature-calibration.md)
+* [Adjusting Homing Macros](advanced-tuning-m3d-crane-series/adjusting-homing-macros.md)
 
 ## Community Submissions/Attributions
 
