@@ -18,3 +18,19 @@ Now that your settings are optimized with the imported printer profile, you can 
 
 Your model is now saved on your hard drive. Just follow the instructions for how to use your [Duet Web Control Interface](https://crane.printm3d.com/~/drafts/-LMGnnAn5_tvVgYh8GkJ/primary/v/master/duet-web-interface-new), to learn how to upload your new STL file. Enjoy watching your models come to life! 
 
+## **Color Printing for the M3D Crane QuadFusion:**
+
+The M3D Crane QuadFusion is unique among consumer FDM printers in that it’s able to mix and produce a huge range of color. In order to take full advantage of your M3D Crane QuadFusion’s stunning color range you’ll need to prepare your model for color printing.  
+
+
+There are a few full color models available online already and you may wish to start out or experiment with those at first. Full color models will already be broken up into several different STL files, all of which will assemble when uploaded into your slicer.  
+
+If you already have a model in mind, but it's not already separated or prepared for color printing you will need to do so yourself using MeshMixer or Blender. You will need to select and separate the different sections of your model into separate facegroups, or shells and save them all separately. 
+
+Depending on your slicers capabilities, you may be able to assign color to each separate part of your assembled model. You may need to utilize a tool such as MeshMixer or Blender however to assign colors or texture maps to your model.
+
+Within your slicer you will then assign an extruder to each of the color sections of your model. Depending on the slicer, you may be able to assign a color to each extruder. This could be the natural color of the filament or in some slicers you'll be able to assign a mixed color. Once you are happy with the colors you have assigned to each extruder, you will need to color your model. Simply make sure you assign the extruder with the color you want, to the section of the model that corresponds.    
+****
+
+#### **Please return soon for more in depth and up to date information as we ready more tools to enable your M3D Crane QuadFusion to realize it’s full color mixing potential.**      
+
