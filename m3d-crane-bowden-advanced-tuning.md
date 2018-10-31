@@ -1,4 +1,4 @@
-# M3D Crane Bowden Advanced  Tuning
+# M3D Crane Advanced  Tuning
 
 ## Getting Super Powers
 

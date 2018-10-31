@@ -8,12 +8,6 @@ description: >-
 
 ## October 30, 2018
 
-+Change movement axes and extrusion menus on LCD so that + and - are reversed.
-
-+Change filament numbering to reflect current drive sticker layout.
-
-+Add community contributions to all models included on the SD card.
-
 +Added LCD menus for all Crane Series printers. LCD menus are specific to each Crane type, Dual, Quad, and Bowden.
 
 +Added a config setting to enable the user to change the direction of their LCD encoder. See general.g
@@ -24,8 +18,14 @@ description: >-
 
 +Added “Test Prints” option to the idle screen of the LCD menu.
 
-+Added a “Test Print” menu, providing 3 test prints to select from. Test Print “draft” model, Bed level test, and Hex test.     
++Added a “Test Print” menu, providing 3 test prints to select from. Test Print “draft” model, Bed level test, and Hex test.   
 
+  
+- LCD Menu Issue: Change movement axes and extrusion menus on LCD so that + and - are reversed.
+
+-LCD Menu Issue: Change filament numbering to reflect current drive sticker layout.
+
+-SD/Config Issue: Add community contributions to all models included on the SD card.
 
 ## October 26, 2018
 

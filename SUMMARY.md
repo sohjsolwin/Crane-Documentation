@@ -2,7 +2,7 @@
 
 * [Welcome](README.md)
 * [Crane Configurations](welcome-new.md)
-* [M3D Crane Bowden Advanced  Tuning](m3d-crane-bowden-advanced-tuning.md)
+* [M3D Crane Advanced  Tuning](m3d-crane-bowden-advanced-tuning.md)
 * [Getting Started](getting-started/README.md)
   * [Critical Warnings & Information](getting-started/critical-warnings-and-information.md)
   * [Network Setup](getting-started/network-setup.md)
@@ -95,12 +95,12 @@
 * [SD card Structure](sd-card-and-firmware/sd-card-structure.md)
 * [Firmware/Configuration](sd-card-and-firmware/updating-firmware.md)
 
-## Changelog
-
-* [Changelog](changelog/changelog.md)
-
 ## Community Submissions/Attributions
 
 * [Community Submissions](community-submissions-attributions/community-submissions.md)
 * [Attributions](community-submissions-attributions/attributions.md)
+
+## Changelog
+
+* [Changelog](changelog/changelog.md)
 
