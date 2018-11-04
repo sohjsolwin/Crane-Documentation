@@ -17,7 +17,6 @@
   * [\(Edit pictures\) Beginner: Printer Assemblies](beginner-guides/beginner-printer-assemblies.md)
   * [\(Edit details\) Beginner: Printer Coordinates](beginner-guides/beginner-printer-coordinates.md)
   * [Beginner: Moving the Motors](beginner-guides/beginner-moving-the-motors.md)
-  * [Beginner: Introduction to G-Code Commands](beginner-guides/beginner-introduction-to-g-code-commands.md)
   * [Beginner: Software Layers](beginner-guides/beginner-software-layers.md)
   * [\(Edit details\) Beginner: What is Slicing?](beginner-guides/beginner-what-is-slicing.md)
   * [Beginner: Printing the Print](beginner-guides/beginner-printing-the-print.md)
@@ -90,6 +89,7 @@
 
 ## Advanced Tuning M3D Crane Series
 
+* [Introduction to G-Code Commands](advanced-tuning-m3d-crane-series/beginner-introduction-to-g-code-commands.md)
 * [Important G-Code Commands](advanced-tuning-m3d-crane-series/important-g-code-commands.md)
 * [Temperature Calibration](advanced-tuning-m3d-crane-series/temperature-calibration.md)
 * [Adjusting Homing Macros](advanced-tuning-m3d-crane-series/adjusting-homing-macros.md)
