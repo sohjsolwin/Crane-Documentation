@@ -56,6 +56,53 @@ The **print status tab** will not display any information until a print is start
 
 ![File Information](../.gitbook/assets/duet6.png)
 
+
+
+## **G-Code Console:**
+
+The G-code console is a vital to an experienced 3D printing user. This tab allows you to enter any RepRap Firmware supported command. The printer will execute any command entered here and print feedback and errors. 
+
+![G-code Console](../.gitbook/assets/levflucsim14bjh0-gcodescreen.PNG)
+
+Visit the [RepRap Firmware G-Code](https://reprap.org/wiki/G-code) website to learn more about all possible G-codes. Be careful when entering G-code commands as the printer will execute whatever you command you send it.
+
+**G-code Files**
+
+![G-code File Screen](../.gitbook/assets/vuhuksyxberfyakj-gcodefilescreen.PNG)
+
+This tab is used to upload G-code files to the Duet board. Use the **Upload G-code File\(s\)** __button in order to upload a _._**gcode** file to the printer in order to print it. Click on an uploaded file in order to print it. You also have the ability to create directories here in order to organize your files. 
+
+## **Macros:**
+
+Macros are useful when you find yourself repeatedly performing a sequence of G-code commands. You can easily put these commands into a macro file and upload it here. Click a macro file in order to execute it.
+
+![Macros Screen](../.gitbook/assets/fewjngk0vnk3rcgd-macrosscreen.PNG)
+
+User defined macros are stored in this tab. Use the dark-blue **Upload Macro File\(s\)** button to upload **.gcode** macro files. 
+
+## **Filaments:**
+
+Utilize this tab in order to define printer filament settings. This can also be performed in Slicer Software
+
+![Filaments Screen](../.gitbook/assets/dlsuoxidsmtdjsar-filamentsscreen.PNG)
+
+Each loaded filament, once loaded, is automatically saved in a new file called **/sys/filaments.csv**. This file may be enhanced in the future to include usage statistics for different materials.
+
+## **Settings:**
+
+**This tab is one of the most important**. This tab allows you to change the **sys/** directory in your SD card and define other user settings.
+
+![Settings Screen](../.gitbook/assets/726ggigphugtd2tt-settingsscreen.PNG)
+
+When any future updates are released it may be necessary to access the system files such as **config.g** or a **machine.g** file, you can change the files in the settings tab. The Settings tab includes more tabs:
+
+* General: Includes firmware and web console information
+* User Interface: Change the look and feel of the Duet Web Console
+* List Items: Includes web page suggested options
+* System Editor: A very useful tab to change files in the _sys/_ directory of your microSD card. **You will find the** _**config.g**_ **file here as well as other system G-code files.**
+* Machine properties: Defines properties of the different drives \(motors\) of the printer.
+* Tools: Defines the properties of the tools.
+
 These are the very basics of the Duet Web Control Interface. We'll go over more about the Macro function during the Bed Leveling Assistant section of this guide, but for more comprehensive and in-depth information on each of the features of the Duet Web Control Interface, click [HERE](https://duet3d.dozuki.com/Wiki/Duet_Web_Control_Manual#Section_Overview).
 
  
