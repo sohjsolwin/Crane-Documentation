@@ -1,4 +1,0 @@
-# Macros
-
-Coming soon.
-
