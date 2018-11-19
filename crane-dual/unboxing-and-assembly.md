@@ -14,9 +14,9 @@ After removing your M3D Crane Dual from the box, remove all the plastic wrapping
 
 Remove the bolts at the bottom of each upright rail, as shown below. Setting them aside briefly:
 
-![note the bolts sticking out of the rails](../.gitbook/assets/image%20%2814%29.png)
+![note the bolts sticking out of the rails](../.gitbook/assets/image%20%2810%29.png)
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 
 
@@ -58,5 +58,5 @@ Prior to exiting this section, please double check all connections, and place yo
 
 Once your M3D Crane Dual is complete it should look like this:
 
-![](../.gitbook/assets/crane_dual%20%281%29.png)
+![](../.gitbook/assets/crane_dual.png)
 

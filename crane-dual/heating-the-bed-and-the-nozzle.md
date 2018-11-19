@@ -20,7 +20,7 @@ Connect to your **Duet Web Control Interface** via your network using the **IP a
 
 In the **Duet Web Console Interface** find the table: _**Tools/Heaters/Extra**_ pictured below. In the row **Bed** **change the active temperature** from 0C to your **desired temperature** and press **Enter**.
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image.png)
 
 In order to turn the heated **bed off,** set the temperature back to **0** in the **Active** column and press **Enter**.
 

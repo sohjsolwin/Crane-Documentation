@@ -12,7 +12,7 @@ The M3D Crane Series of printers comes pre-configured with a set of coordinates 
 
 Using the Duet Web Control interface, be sure you are on the **Machine Control** tab by simply clicking Machine Control in the middle right of the interface. Once you are on the Machine Control tab, you will see on the left side of the screen a section called **User-Defined Macros.** There you will see a series of drop down menus in blue. Select the **Calibration** macro drop down, then select **Manual Bed Leveling** to begin the **Manual Bed Leveling sequence.**
 
-![](../.gitbook/assets/bedlevel1.png)
+![](../.gitbook/assets/userdefinedmacro.jpg)
 
 
 
