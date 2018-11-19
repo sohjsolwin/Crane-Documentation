@@ -6,15 +6,29 @@ description: Information on your M3D Crane Series printer.
 
 Welcome and thank you for choosing the M3D Crane series of printers! From here you will be able to navigate through our series of Quick Start guides for the Crane Line. First select the Model style of M3D Crane you have purchased and you will be directed to the Quick Start Guide that matches your new printer.
 
-| \*\*\*\*[**The Crane Bowden**](https://crane.printm3d.com/crane-bowden-guide/crane-bowden-unboxing-assembly)\*\*\*\* | The Crane Dual | \*\*\*\*[**The Crane Quad**](https://crane.printm3d.com/crane-quad-guide/unboxing-and-assembly)\*\*\*\* |
+| \*\*\*\*[**The Crane Bowden**](https://crane.printm3d.com/crane-bowden-guide/crane-bowden-unboxing-assembly)\*\*\*\* | [The Crane Dual](https://crane.printm3d.com/crane-dual/unboxing-and-assembly) | \*\*\*\*[**The Crane Quad**](https://crane.printm3d.com/crane-quad-guide/unboxing-and-assembly)\*\*\*\* |
 | :---: | :---: | :---: |
 
 
-| ![gras](.gitbook/assets/crane_bowden%20%281%29.png) |  | ![gras](.gitbook/assets/quad.png) |
-| :---: | :---: | :---: |
-
-
-| Quick Links -- Bowden | Quick Links--Dual | Quick Links -- Quad |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">
+        <img src=".gitbook/assets/smallbowden.png" alt="gras" />
+      </th>
+      <th style="text-align:left">
+        <p></p>
+        <p>
+          <img src=".gitbook/assets/smalldual.png" alt="test" />
+        </p>
+      </th>
+      <th style="text-align:center">
+        <img src=".gitbook/assets/smallquad.png" alt="gras" />
+      </th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>| Quick Links -- Bowden | Quick Links--Dual | Quick Links -- Quad |
 | :---: | :---: | :---: |
 | [Assembly Guide](https://crane.printm3d.com/crane-bowden-guide/crane-bowden-unboxing-assembly) | [Assembly Guide](https://crane.printm3d.com/crane-dual/unboxing-and-assembly) | [Assembly Guide](https://crane.printm3d.com/crane-quad-guide/unboxing-and-assembly) |
 | [Network Setup](https://crane.printm3d.com/crane-bowden-guide/first-time-network-setup) | [Network Setup](https://crane.printm3d.com/crane-dual/first-time-network-setup) | [Network Setup](https://crane.printm3d.com/crane-quad-guide/first-time-network-setup) |
