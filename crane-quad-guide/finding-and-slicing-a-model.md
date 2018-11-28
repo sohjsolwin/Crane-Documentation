@@ -10,7 +10,7 @@ While there are several great Slicers out there, both free as well as paid we re
 
 ![Cura](../.gitbook/assets/cura1.png)
 
-The M3D Crane Bowden has several Cura **Printing Profiles** that have been pre-configured, each to the optimal settings within Cura for a selection of different material types. You can find and download the first of those here within this point release:  [https://github.com/PrintM3D/Crane/releases/tag/1.1](https://github.com/PrintM3D/Crane/releases/tag/1.1) -- you can also find the latest version of the Bowden SD Card here in case you need it.
+The M3D Crane Quad has several Cura **Printing Profiles** that have been pre-configured, each to the optimal settings within Cura for a selection of different material types. You can find and download the first of those here within this point release:  [https://github.com/PrintM3D/Crane/releases/tag/1.1](https://github.com/PrintM3D/Crane/releases/tag/1.1) -- you can also find the latest version of the Quad SD Card here in case you need it.
 
 Once you have selected and downloaded the Cura Printing Profile you will need for the material you are printing in, you can **Import the profile into Cura and Save it.** You can find these options in the Menu Bar at the top of the slicer's window. For additional information on Cura settings please go [here](https://ultimaker.com/en/products/ultimaker-cura-software).
 
@@ -18,9 +18,9 @@ Now that your settings are optimized with the imported printer profile, you can 
 
 Your model is now saved on your hard drive. Just follow the instructions for how to use your [Duet Web Control Interface](https://crane.printm3d.com/~/drafts/-LMGnnAn5_tvVgYh8GkJ/primary/v/master/duet-web-interface-new), to learn how to upload your new STL file. Enjoy watching your models come to life! 
 
-## **Color Printing for the M3D Crane QuadFusion:**
+## **Color Printing for the M3D Crane Quad:**
 
-The M3D Crane QuadFusion is unique among consumer FDM printers in that it’s able to mix and produce a huge range of color. In order to take full advantage of your M3D Crane QuadFusion’s stunning color range you’ll need to prepare your model for color printing.  
+The M3D Crane Quad is unique among consumer FDM printers in that it’s able to mix and produce a huge range of color. In order to take full advantage of your M3D Crane Quad’s stunning color range you’ll need to prepare your model for color printing.  
 
 
 There are a few full color models available online already and you may wish to start out or experiment with those at first. Full color models will already be broken up into several different STL files, all of which will assemble when uploaded into your slicer.  
@@ -32,5 +32,5 @@ Depending on your slicers capabilities, you may be able to assign color to each 
 Within your slicer you will then assign an extruder to each of the color sections of your model. Depending on the slicer, you may be able to assign a color to each extruder. This could be the natural color of the filament or in some slicers you'll be able to assign a mixed color. Once you are happy with the colors you have assigned to each extruder, you will need to color your model. Simply make sure you assign the extruder with the color you want, to the section of the model that corresponds.    
 ****
 
-#### **Please return soon for more in depth and up to date information as we ready more tools to enable your M3D Crane QuadFusion to realize it’s full color mixing potential.**      
+#### **Please return soon for more in depth and up to date information as we ready more tools to enable your M3D Crane Quad to realize it’s full color mixing potential.**      
 
