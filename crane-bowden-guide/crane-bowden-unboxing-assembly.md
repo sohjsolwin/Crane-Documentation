@@ -1,3 +1,7 @@
+---
+description: Unboxing and Assembling your M3D Crane Series Printer
+---
+
 # Unboxing/Assembly
 
 
@@ -59,4 +63,6 @@ Prior to exiting this section, please double check all connections, and place yo
 Once your M3D Crane Bowden is complete it should look like this:
 
 ![](../.gitbook/assets/image%20%286%29.png)
+
+Congratulations!! You have completed the Assembly of your M3D Crane Bowden Printer!! In the next section you will learn how to include your new M3D Crane Bowden into your existing network, or set up a network from scratch.  
 
