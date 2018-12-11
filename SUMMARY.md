@@ -36,7 +36,7 @@
 * [First time Network Setup](crane-dual/first-time-network-setup.md)
 * [LCD Menu Navigation](crane-dual/lcd-menu-navigation.md)
 * [Duet Web Control First Look](crane-dual/duet-web-control-first-look.md)
-* [Manual Bed Leveling Assistant](crane-dual/manual-bed-leveling-assistant.md)
+* [Bed Leveling](crane-dual/manual-bed-leveling-assistant.md)
 * [Heating the bed and the Nozzle](crane-dual/heating-the-bed-and-the-nozzle.md)
 * [Loading and Unloading Filament](crane-dual/loading-and-unloading-filament.md)
 * [Finding and Slicing Your Model](crane-dual/finding-and-slicing-your-model.md)
