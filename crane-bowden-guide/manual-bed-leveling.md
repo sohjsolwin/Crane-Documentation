@@ -61,3 +61,5 @@ The Basic Bed Leveling sequence will repeat the same prompts for the **Right Rea
 **NOTE: If the paper has little or no resistance, or is so tight it threatens to tear rather than be moved, repeat the Basic Bed Leveling process over again until the desired results are achieved.**   
 {% endhint %}
 
+Once you have mastered the art of Bed Leveling, it'll be time to tackle the printers basic controls such as heating the print bed and the nozzle. These features are covered in the next section. 
+

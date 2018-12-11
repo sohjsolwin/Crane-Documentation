@@ -105,5 +105,7 @@ When any future updates are released it may be necessary to access the system fi
 
 These are the very basics of the Duet Web Control Interface. We'll go over more about the Macro function during the Bed Leveling Assistant section of this guide, but for more comprehensive and in-depth information on each of the features of the Duet Web Control Interface, click [HERE](https://duet3d.dozuki.com/Wiki/Duet_Web_Control_Manual#Section_Overview).
 
+Now that you are more familiar with both the LCD navigation menu as well as Duet Web Control, it's time to move on to Bed Leveling which will be addressed in the next section.    
+
  
 
