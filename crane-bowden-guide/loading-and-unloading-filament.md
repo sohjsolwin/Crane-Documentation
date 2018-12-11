@@ -52,3 +52,5 @@ Here you will find options to **extrude \(+\)** or **retract \(-\)** mm of filam
 
 To **Unload the Filament** simply maintain your nozzle temperature **while depressing the leaver on the extruder. \(This will disengage the extruder gears so the filament will be free to move\)** Grab hold of the filament and pull it out with a sweeping, fluid motion. The filament will be slide up and out of the nozzle, out of the bowden tube and out the extruder.  
 
+After mastering the art of Loading and Unloading Filament on your M3D Crane Bowden, you'll want to start looking for 3D models to print as well as a slicer to convert them into gcode. Follow the guide to the next section to learn where to find your 3D models as well as the programs to slice them. 
+
