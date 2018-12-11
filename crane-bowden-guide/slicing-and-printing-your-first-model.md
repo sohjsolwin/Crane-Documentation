@@ -62,3 +62,5 @@ Now that your settings are optimized with the imported printer profile, you can 
 
 Your model is now saved on your hard drive. Just follow the instructions for how to use your[ Duet Web Control Interface](https://crane.printm3d.com/crane-bowden-guide/intro-to-duet-web-control), to learn how to upload your new gcode file. Enjoy watching your models come to life! 
 
+The possibilities of what you can do with your M3D Crane Bowden are seemingly endless now that you know how to create, or find 3D models and how to prepare them to be printed. Next you will learn how to start your first 3D print! Follow the guide to the next section where you will find instructions on how to print.  
+
