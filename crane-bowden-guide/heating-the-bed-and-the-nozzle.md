@@ -46,3 +46,5 @@ In order to **turn off the heater,** set the tools **active temperature to 0 and
 
 Now you know the basics of heating your bed and nozzle it's time to move on to loading and unloading filament!
 
+Once you're confidently able to set the temperatures of the M3D Crane Bowden's print bed and the nozzle it's time to move on to the next section to learn how to load and unload filament.  
+
