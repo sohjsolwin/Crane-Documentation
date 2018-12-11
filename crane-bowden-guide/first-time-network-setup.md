@@ -24,5 +24,7 @@ Once connected via **Ethernet** your ****M3D Crane Series printer will display a
 
 ![M3D Crane Bowden Duet Web Control Interface](../.gitbook/assets/bowdenduet.png)
 
+In the next section you will learn how to navigate through the LCD menu of your M3D Crane Bowden Printer.  
+
  
 
