@@ -14,9 +14,9 @@ After removing your M3D Crane Quad from the box, remove all the plastic wrapping
 
 Remove the bolts at the bottom of each upright rail, as shown below. Setting them aside briefly:
 
-![note the bolts sticking out of the rails](../.gitbook/assets/image%20%2810%29.png)
+![note the bolts sticking out of the rails](../.gitbook/assets/image%20%2815%29.png)
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 
 
