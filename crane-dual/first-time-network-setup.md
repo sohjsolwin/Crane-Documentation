@@ -26,7 +26,5 @@ After your printer has had the time to start up, direct your browser to the addr
 
 You have completed the network setup. If you are unable to access Duet Web Control you may need to contact your Network Administrator. 
 
-Now that the network has been set up it's time to learn how to navigate the LCD menu on your M3D Crane Dual printer. Follow the guide to the next section to learn more about the LCD menu. 
-
  
 
