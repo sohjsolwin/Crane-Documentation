@@ -24,15 +24,15 @@ Once you have downloaded your preferred slicer you can follow the steps below to
 
  Open Cura's Setting by pressing **Preferences &gt; Configure Cura**_...._
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
  Once you have opened Cura's settings we will go to **add a printer**. This is because we need to tell Cura the specifics of our printer, such as the maximum build volume of the printer. Press _**Printers**_ and then **Add** in order to add a new printer. This will open a new window.
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 Next, press **Custom**_._ This indicates we are adding a custom printer to Cura's loadout. You can define the **Printer Name** however you want. Then press **Add Printer**_,_ this should open another setting window_._
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 This window allows you to **configure the printer settings** of your M3D Crane Series printer. This informs Cura of the M3D Crane Series printer's build space, the firmware flavor and specifies starting and ending G-code.
 
@@ -50,11 +50,11 @@ Once you have added the printer make sure to activate it by selecting the name a
 
 In Cura, open the Preferences again by clicking _Preferences &gt; Configure Cura._ Click _Profiles &gt; Import_. Then a window will pop up that will allow you to navigate to the profile you just downloaded. It will most likely be in the _Downloads_ folder.
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 Once you have properly imported the file you will have to **Activate** it. Select the profile and click the button **Activate**_._ The print settings you just downloaded have now been applied to Cura. Whenever you slice a model, it will now incorporate these settings.
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 ## Slicing your Model <a id="slicing-your-model"></a>
 
