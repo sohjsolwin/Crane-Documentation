@@ -56,3 +56,5 @@ The **print status tab** will not display any information until a print is start
 
 These are the very basics of the Duet Web Control Interface. We'll go over more about the Macro function during the Bed Leveling Assistant section of this guide, but for more comprehensive and in-depth information on each of the features of the Duet Web Control Interface, click [HERE](https://duet3d.dozuki.com/Wiki/Duet_Web_Control_Manual#Section_Overview).
 
+Now that you are more familiar with the Duet Web Control Interface, it's time to move on to the hands on work of leveling your M3D Crane Dual's print bed. In the next section we will cover a simple Basic Leveling method.  
+
