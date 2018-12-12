@@ -34,5 +34,8 @@ Depending on your slicers capabilities, you may be able to assign color to each 
 Within your slicer you will then assign an extruder to each of the color sections of your model. Depending on the slicer, you may be able to assign a color to each extruder. This could be the natural color of the filament or in some slicers you'll be able to assign a mixed color. Once you are happy with the colors you have assigned to each extruder, you will need to color your model. Simply make sure you assign the extruder with the color you want, to the section of the model that corresponds.    
 ****
 
-#### **Please return soon for more in depth and up to date information as we ready more tools to enable your M3D Crane QuadFusion to realize it’s full color mixing potential.**      
+#### **Please return soon for more in depth and up to date information as we ready more tools to enable your M3D Crane QuadFusion to realize it’s full color mixing potential.**    
+
+Now that we've covered the basics of finding, coloring, and slicing your 3D models, you are ready to make your first print using the M3D Crane Quad printer! The next section will guide you through your first print!    
+
 
