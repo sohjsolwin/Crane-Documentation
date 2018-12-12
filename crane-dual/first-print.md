@@ -49,5 +49,7 @@ Clicking on the Print Status tab will open a Print Control screen where you can 
 It's recommended that you do not make any changes without first doing further reading so as to not inadvertently cause damage to the print OR your M3D Crane Series Printer.   
 {% endhint %}
 
-Congratulations on your first print with your new M3D Crane Dual printer!! The possibilities are seemingly endless with the M3D Crane Dual, not only will you experience exceptional print quality but you can now experiment with 2 colors or materials at once which will open even greater avenues of creativity and expression. We hope you enjoy your M3D Crane Dual printer, and don't forget to check out the Crane Series Advanced Tuning section of the guide.     
+Congratulations on your first print with your new M3D Crane Dual printer!! The possibilities are seemingly endless with the M3D Crane Dual, not only will you experience exceptional print quality but you can now experiment with 2 colors or materials at once which will open even greater avenues of creativity and expression. 
+
+ Feel free to contribute to our ever expanding catalog of user submissions to share your knowledge and experience with the M3D Crane Dual as we continue to grow together as a 3D printing community by following the Community Submissions and Attributions section of this guide. Also don't forget to check out the Advanced Tuning for M3D Crane Series section of this guide for more information.
 
