@@ -52,3 +52,5 @@ The Tune Menu will give you control over various aspects of your print while it'
 
 There are other aspects of the menu such as the Preheat various materials options. Those shall be discussed in additional guides. 
 
+Now that you've explored the LCD menu of your M3D Crane Quad, the next important step is to go over the Duet Web Control Console. In the next section you will learn the basics of the Duet Web Control Interface.  
+
