@@ -48,3 +48,5 @@ The Basic Bed Leveling sequence will repeat the same prompts for the **Right Rea
 **NOTE: If the paper has little or no resistance, or is so tight it threatens to tear rather than be moved, repeat the Basic Bed Leveling process over again until the desired results are achieved.**
 {% endhint %}
 
+Congratulations on leveling the print bed of your M3D Crane Quad printer!! In the next section we will go over how to use the controls to head the print bed and nozzle. Learning the basics of operating your M3D Crane Quad printer are very important, follow the guide to the next section to get started.   
+
