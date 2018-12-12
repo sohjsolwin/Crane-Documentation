@@ -52,7 +52,7 @@ Clicking on the Print Status tab will open a Print Control screen where you can 
 It's recommended that you do not make any changes without first doing further reading so as to not inadvertently cause damage to the print OR your M3D Crane Series Printer.   
 {% endhint %}
 
- Congratulations on your very first print with the M3D Crane Bowden printer! You can look forward to exceptional print quality and lasting reliability from your M3D Crane Series printer.  
+Congratulations on your very first print with the M3D Crane Bowden printer! You can look forward to exceptional print quality and lasting reliability from your M3D Crane Series printer.  
 
-Feel free to contribute to our ever expanding catalog of user submissions to share your knowledge and experience with the M3D Crane Bowden printer as we continue to grow together as a 3D printing community by following the Community Submissions and Attributions section of this guide. Also don't forget to check out the Advanced Tuning for M3D Crane Series section of this guide for more information. 
+Feel free to contribute to our ever expanding catalog of user submissions to share your knowledge and experience with the M3D Crane Bowden printer as we continue to grow together as a 3D printing community by following the[ Community Submissions and Attributions](https://crane.printm3d.com/community-submissions-attributions/community-submissions) section of this guide. Also don't forget to check out the Advanced Tuning for M3D Crane Series section of this guide for more information. 
 
