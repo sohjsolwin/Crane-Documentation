@@ -18,9 +18,9 @@ After removing your M3D Crane Bowden from the box, remove all the plastic wrappi
 
 Remove the bolts at the bottom of each upright rail, as shown below. Setting them aside briefly:
 
-![note the bolts sticking out of the rails](../.gitbook/assets/image%20%2815%29.png)
+![note the bolts sticking out of the rails](../.gitbook/assets/image%20%2818%29.png)
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 
 
@@ -62,7 +62,7 @@ Prior to exiting this section, please double check all connections, and place yo
 
 Once your M3D Crane Bowden is complete it should look like this:
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 Congratulations!! You have completed the Assembly of your M3D Crane Bowden Printer!! In the next section you will learn how to include your new M3D Crane Bowden into your existing network, or set up a network from scratch.  
 
