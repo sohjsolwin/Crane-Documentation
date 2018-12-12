@@ -44,5 +44,5 @@ Remember that the tool will only heat up to your set active temperature when the
 
 In order to **turn off the heater,** set the tools **active temperature to 0 and press Enter**. Remember that a tool will heat up to the standby temperature when the tool is not selected, but was previously selected. You can see which tool is activated by the underline of the tool name in the Duet Web Console.
 
-Now you know the basics of heating your bed and nozzle it's time to move on to loading and unloading filament!
+Now you know the basics of heating your bed and nozzle it's time to move on to loading and unloading filament! Move on to the next section to learn how to load and unload your M3D Crane Dual printer. 
 
