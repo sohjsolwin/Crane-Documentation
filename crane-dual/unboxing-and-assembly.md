@@ -60,3 +60,5 @@ Once your M3D Crane Dual is complete it should look like this:
 
 ![](../.gitbook/assets/crane_dual.png)
 
+Congratulations!! You have assembled your new M3D Crane Dual printer!! Move on to the next section to learn how to add the M3D Crane Dual to your existing network or setup a network from scratch.  
+
