@@ -60,3 +60,5 @@ Once your M3D Crane Quad is complete it should look like this:
 
 ![](../.gitbook/assets/quad.png)
 
+Congratulations on completing the assembly of your M3D Crane Quad printer!! Please continue on to the next section where you will learn how to add your M3D Crane Quad to your existing network, or set up a network from scratch.   
+

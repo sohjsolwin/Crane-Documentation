@@ -14,7 +14,7 @@ Grasp each side of the print bed with each hand, palms resting on your print bed
 
 ## **Basic Bed Leveling:**  <a id="basic-bed-leveling"></a>
 
-Scroll through the LCD main menu and select **Prepare** scroll down select **Leveling**. There are two options, Advanced Leveling, and Basic Leveling. Select the second option, **Basic Leveling.**
+Scroll through the LCD main menu and select **Prepare** scroll down select **Bed Leveling**. In the sub menu select **Basic Leveling.**
 
 In order to complete the Basic Leveling process you will need **a piece of paper** or an index card of regular 8.5 x 11 paper thickness.
 
