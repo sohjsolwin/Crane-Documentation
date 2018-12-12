@@ -7,7 +7,7 @@ Below is an image of the **Standby screen** of your M3D Crane Series printer. Wh
 ![](../.gitbook/assets/menu2.jpg)
 
 * **Nozzle**: this will display the nozzle's **current temperature as well as the nozzle's set temperature**. To **Set the Nozzle Temp** simply move the knob in order to **highlight the temperature values** in the Nozzle row. Once highlighted, **depress the knob once to select**, then **turn the knob until the desired temperature is displayed** and select by depressing the knob once more.
-* **Bed**: this will display the c**urrent bed temperature** as well as the **set bed temperature**. To set the Bed Temp, simply follow the directions as if you were changing the nozzle temp but apply them to the Bed row.
+* **Bed**: this will display the **current bed temperature** as well as the **set bed temperature**. To set the Bed Temp, simply follow the directions as if you were changing the nozzle temp but apply them to the Bed row.
 * **Feed Rate**: this displays your **current feed rate**. To change the **Feed Rate**, simply **select the value and adjust with the knob.**
 * **IP**: this displays the **IP address of your M3D Crane Series printer on your network**. The **Network Setup** section of this guide shows how to access the **Duet Web Control Interface** via this IP address. The displayed values of the IP address are not able to be selected nor changed from this menu.
 * **Prepare**: selecting Prepare will change the LCD screen Menu to an additional menu page.
@@ -49,4 +49,6 @@ The Tune Menu will give you control over various aspects of your print while it'
 * **Cancel Active Print:** will allow you to Cancel the print at any time should you choose to for any reason. 
 
 There are other aspects of the menu such as the Preheat various materials options. Those shall be discussed in additional guides.
+
+Now that we've covered the basics of the LCD menu navigation, follow the link to the next section to get a first look at the M3D Crane Dual's Duet Web Control console. 
 
