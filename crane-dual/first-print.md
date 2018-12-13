@@ -24,7 +24,7 @@ Be sure to use the Sample Filament that came with your M3D Crane Series printer 
 
 ![Basic Test Print](../.gitbook/assets/image%20%285%29.png)
 
- The Test Print will start running once selected. It may take several moments to start as the bed and the nozzle will need to get up to running temperature. Be sure to save detailed images of your Test Prints!  
+The Test Print will start running once selected. It may take several moments to start as the bed and the nozzle will need to get up to running temperature. Be sure to save detailed images of your Test Prints!  
 
 
 ## Uploading and Printing:
@@ -51,5 +51,5 @@ It's recommended that you do not make any changes without first doing further re
 
 Congratulations on your first print with your new M3D Crane Dual printer!! The possibilities are seemingly endless with the M3D Crane Dual, not only will you experience exceptional print quality but you can now experiment with 2 colors or materials at once which will open even greater avenues of creativity and expression. 
 
- Feel free to contribute to our ever expanding catalog of user submissions to share your knowledge and experience with the M3D Crane Dual as we continue to grow together as a 3D printing community by following the Community Submissions and Attributions section of this guide. Also don't forget to check out the Advanced Tuning for M3D Crane Series section of this guide for more information.
+ Feel free to contribute to our ever expanding catalog of user submissions to share your knowledge and experience with the M3D Crane Dual as we continue to grow together as a 3D printing community by following the [Community Submissions and Attributions](https://crane.printm3d.com/community-submissions-attributions/community-submissions) section of this guide. Also don't forget to check out the Advanced Tuning for M3D Crane Series section of this guide for more information.
 
