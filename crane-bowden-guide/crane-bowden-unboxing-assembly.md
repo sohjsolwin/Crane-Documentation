@@ -56,6 +56,26 @@ After making the connections, use the provided bolts and Allen Key to secure the
 
 ![](../.gitbook/assets/20181004_025605.jpg)
 
+## Z endstop positioning:
+
+In order to ensure nothing is damaged during shipping, and furthermore during the first power on of your M3D Crane Quad, it's been shipped with the Z endstop raised. You will need to manually lower your Z endstop before any printing can occur. 
+
+Be sure your M3D Crane Quad is powered off, and or unplugged before you begin this step. 
+
+The first step to moving your Z endstop is to tighten all four of your bed nuts so that only about 8-10 threads are exposed on each. 
+
+Next you will need to manually center the print head over the bed. To do this gently move the print head along the Z axis until it's in the desired position. 
+
+Loosen the Z endstop bracket by loosening the 2 screws that secure the bracket to the rail. 
+
+Slowly lower the print head until the nozzle touches the bed. 
+
+Little by little raise the Z endstop until a click is heard/felt and then tighten down the 2 screws again. 
+
+Manually raise your print head/Z axis and now you are ready to power on the M3D Crane Quad and select Home All in the LCD menu. 
+
+ 
+
 {% hint style="danger" %}
 Prior to exiting this section, please double check all connections, and place your crane on a flat surface. Ensure the Power Switch is Off\(O\), double check that your voltage is set appropriately for YOUR area\(consult local authorities if you are unsure\). **Failure to do this can irreparably harm the electronics in your printer.**
 {% endhint %}
