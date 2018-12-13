@@ -74,6 +74,35 @@ Little by little raise the Z endstop until a click is heard/felt and then tighte
 
 Manually raise your print head/Z axis and now you are ready to power on the M3D Crane Quad and select Home All in the LCD menu. 
 
+## Spool Holder:
+
+The M3D Crane Bowden comes equip with a heavy duty spool holder. This Spool Holder well suited to hold the larger spools of 3DInk Filament. Here we show how to assemble the Spool Holder:
+
+![Spool Holder for larger spools of 3DInk Filament](../.gitbook/assets/spool5.jpg)
+
+The Spool Holder is comprised of the following parts:
+
+* 2 T-nuts
+* Mounting Bracket
+* Spool Mount Spindle
+* 2 End Caps
+
+![Spool Holder components ](../.gitbook/assets/spool1.jpg)
+
+To assemble the Spool Holder screw the T-nuts into the holes at the bottom of the Mounting Bracket. Be sure to leave them fairly loose as you will tighten them firmly once the Mounting Bracket has been attached to the top rail of your M3D Crane Bowden printer. 
+
+![T-nuts in place at the bottom of the Mounting Bracket](../.gitbook/assets/spool2.jpg)
+
+Once the T-nuts are in place, slip one end of the Spool Mount Spindle through the large hole in the top of the Mounting Bracket and secure with an End Cap. 
+
+![End Cap in place to secure Spindle to Mounting Bracket](../.gitbook/assets/spool3.jpg)
+
+The Spool Holder is designed so that the End Cap secures the spool and prevents it from slipping off the Spool Mount Spindle while in use. When not in use it's advised to keep the End Cap secured to the Spool Mount Spindle to prevent it from becoming lost or misplaced. 
+
+![Fully Assembled Spool Holder](../.gitbook/assets/spool4.jpg)
+
+Once your Spool Holder is fully assembled simply slip the T-nuts into the grove on the top rail of your M3D Crane Bowden printer and tighten securely.
+
  
 
 {% hint style="danger" %}
