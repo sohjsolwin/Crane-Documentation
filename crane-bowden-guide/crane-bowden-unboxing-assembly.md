@@ -103,8 +103,6 @@ The Spool Holder is designed so that the End Cap secures the spool and prevents 
 
 Once your Spool Holder is fully assembled simply slip the T-nuts into the grove on the top rail of your M3D Crane Bowden printer and tighten securely.
 
- 
-
 {% hint style="danger" %}
 Prior to exiting this section, please double check all connections, and place your crane on a flat surface. Ensure the Power Switch is Off\(O\), double check that your voltage is set appropriately for YOUR area\(consult local authorities if you are unsure\). **Failure to do this can irreparably harm the electronics in your printer.**
 {% endhint %}
