@@ -6,15 +6,16 @@ Updating your firmware is important in order to obtain the latest features and b
 
 ## Firmware:
 
-The version of the Duet Firmware we are currently running is: **2.02RC2**
+Our firmware updates, courtesy of user dc42 can be found here   [https://github.com/dc42/RepRapFirmware/releases](https://github.com/dc42/RepRapFirmware/releases)
 
-Here are the direct download links you will need to update your firmware as well as your Duet Web Control:
+| Version  | Description  | Author  |
+| :--- | :--- | :--- |
+| 2.02RC5 | [Duet Maestro Firmware](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC5/DuetMaestroFirmware.bin) | dc42 |
+| 2.02RC5 | [Duet Web Control](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC5/DuetWebControl-1.22.5.zip) | dc42 |
+| 2.02RC2 | [Duet Web Control](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC2/DuetWebControl-1.22.3.zip) | dc42 |
+| 2.02RC2 | [Firmware](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC2/DuetMaestroFirmware.bin) | dc42 |
 
- [Duet Web Control](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC2/DuetWebControl-1.22.3.zip)
-
-[Firmware](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC2/DuetMaestroFirmware.bin)
-
-{% hint style="danger" %}
+{% hint style="info" %}
 **Warning: Updating your firmware can cause unintended consequences. Be aware that upgrading or downgrading to unstable firmware versions can cause unexpected bugs and issues. Use caution!**
 {% endhint %}
 
