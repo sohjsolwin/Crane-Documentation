@@ -15,6 +15,16 @@ Our firmware updates, courtesy of user dc42 can be found here   [https://github.
 | 2.02RC2 | [Duet Web Control](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC2/DuetWebControl-1.22.3.zip) | dc42 |
 | 2.02RC2 | [Firmware](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC2/DuetMaestroFirmware.bin) | dc42 |
 
+## Configuration Files:
+
+These Configuration Files are for use with Duet Firmware 2.02RC5. This update is tested and official but still being actively updated.
+
+| Version | Description | Author |
+| :--- | :--- | :--- |
+| 2.02RC5: 1.35 | [M3D Crane Bowden](https://github.com/PrintM3D/Crane/releases/download/1.35/M3D_Bowden_135_pre.zip) | M3D |
+| 2.02RC5: 1.35 | [M3D Crane Dual](https://github.com/PrintM3D/Crane/releases/download/1.35/M3D_Dual_135_pre.zip)  | M3D |
+| 2.02RC5: 1.35 | [M3D Crane Quad](https://github.com/PrintM3D/Crane/releases/download/1.35/M3D_Quad_135_pre.zip) | M3D |
+
 {% hint style="info" %}
 **Warning: Updating your firmware can cause unintended consequences. Be aware that upgrading or downgrading to unstable firmware versions can cause unexpected bugs and issues. Use caution!**
 {% endhint %}
