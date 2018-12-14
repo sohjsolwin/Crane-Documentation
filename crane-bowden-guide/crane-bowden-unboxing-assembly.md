@@ -82,6 +82,8 @@ Little by little raise the Z endstop until a click is heard/felt and then tighte
 
 Manually raise your print head by rotating the Z axis and now you are ready to power on the M3D Crane  and select Home All in the LCD menu. While it is still necessary that we run through the leveling process with the printer powered on, making these changes ensures that we do not cause any damage to the print surface.  
 
+In order to assure your M3D Crane Series printer maintains an accurate bed level after following the [Bed Leveling](https://crane.printm3d.com/~/edit/drafts/-LTi556ASBKSVfOwPujM/crane-bowden-guide/manual-bed-leveling) section of this guide it may be necessary to make further adjustments to the Z endstop position. Maneuvering the Z endstop in conjunction with following the Bed Leveling guide will lead to a more accurate and level print bed.  
+
 ## Spool Holder:
 
 The M3D Crane Series comes equipped with a heavy duty spool holder. This Spool Holder well suited to hold the larger spools of 500 or 1000 feet of Filament. Here we show how to assemble the Spool Holder:
