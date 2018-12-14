@@ -17,7 +17,7 @@ Our firmware updates, courtesy of user dc42 can be found here   [https://github.
 
 ## Configuration Files:
 
-These Configuration Files are for use with Duet Firmware 2.02RC5. This update is tested and official but still being actively updated.
+These Configuration Files are for use with Duet Firmware 2.02RC5. This update is tested and official but still being actively updated. [https://github.com/PrintM3D/Crane/releases](https://github.com/PrintM3D/Crane/releases)
 
 | Version | Description | Author |
 | :--- | :--- | :--- |
