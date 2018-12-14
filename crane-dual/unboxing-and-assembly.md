@@ -52,23 +52,33 @@ After making the connections, use the provided bolts and Allen Key to secure the
 
 ![](../.gitbook/assets/20181004_025605.jpg)
 
-## Z endstop positioning:
+## Z-endstop positioning:
 
-In order to ensure nothing is damaged during shipping, and furthermore during the first power on of your M3D Crane Quad, it's been shipped with the Z endstop raised. You will need to manually lower your Z endstop before any printing can occur. 
+Be sure your M3D Crane is powered off and/or unplugged before you begin this step. 
 
-Be sure your M3D Crane Quad is powered off, and or unplugged before you begin this step. 
+In order to ensure nothing is damaged during shipping, and furthermore during the first power on of your M3D Crane, it's been shipped with the Z-endstop raised. You will need to manually lower your Z-endstop before printing. 
 
-The first step to moving your Z endstop is to tighten all four of your bed nuts so that only about 8-10 threads are exposed on each. 
+![Z endstop](../.gitbook/assets/image1.jpg)
 
-Next you will need to manually center the print head over the bed. To do this gently move the print head along the Z axis until it's in the desired position. 
+The first step to moving your Z-endstop to an appropriate height is to examine the exposed bolts below the Y-carriage and to tighten/loosen all four of your bed nuts so that only about 8-10 threads are exposed on each.  You can see in this photograph a bolt that has been tightened to its recommended position. Use the included wrench or your own 7mm tool to ensure each bolt is adjusted to approximately the same position.
 
-Loosen the Z endstop bracket by loosening the 2 screws that secure the bracket to the rail. 
+![8-10 threads exposed](../.gitbook/assets/image3.jpg)
 
-Slowly lower the print head until the nozzle touches the bed. 
+Next you will need to manually center the print head over the bed. To do this gently move the print head left-to-right along the X-axis until it's in the center. Then, move the bed forward along the Y-axis until its center.  At this point, the print head should be above the center of the bed.  Finally, rotate the coupler between the Z-motor and the Z-leadscrew counter-clockwise until the left bracket of the X-axis is resting on top of the Z-endstop switch as seen in the photo.
 
-Little by little raise the Z endstop until a click is heard/felt and then tighten down the 2 screws again. 
+![Rotate the Coupler between the Z-motor and the Z-leadscrew ](../.gitbook/assets/image4.jpg)
 
-Manually raise your print head/Z axis and now you are ready to power on the M3D Crane Quad and select Home All in the LCD menu. 
+![left bracket of the X-axis is resting on top of the Z-endstop switch](../.gitbook/assets/image2.jpg)
+
+The Z endstop is attached to the rail with two T-nuts that hang the inside of the aluminum extrusion channel.  Loosen the Z endstop bracket enough to loosen the 2 screws that secure the bracket to the rail. 
+
+After loosening the Z-endstop and allowing it to move down, we are now free to move the printhead closer to the bed.  Slowly lower the print head until the nozzle touches the bed. 
+
+Little by little raise the Z endstop until a click is heard/felt and then tighten down the 2 screws again. You should be able to secure one of the nuts fairly easily to maintain the position of the Z endstop.
+
+Manually raise your print head by rotating the Z axis and now you are ready to power on the M3D Crane  and select Home All in the LCD menu. While it is still necessary that we run through the leveling process with the printer powered on, making these changes ensures that we do not cause any damage to the print surface.  
+
+In order to assure your M3D Crane Series printer maintains an accurate bed level after following the [Bed Leveling](https://crane.printm3d.com/~/edit/drafts/-LTi556ASBKSVfOwPujM/crane-bowden-guide/manual-bed-leveling) section of this guide it may be necessary to make further adjustments to the Z endstop position. Maneuvering the Z endstop in conjunction with following the Bed Leveling guide will lead to a more accurate and level print bed.  
 
 ## Spool Holder:
 
