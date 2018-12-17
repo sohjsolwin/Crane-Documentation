@@ -14,6 +14,10 @@ Grasp each side of the print bed with each hand, palms resting on your print bed
 
 ## **Basic Bed Leveling:**  <a id="basic-bed-leveling"></a>
 
+{% hint style="info" %}
+**For optimal Bed Leveling be sure to use this Bed Leveling guide in conjunction with the adjustments made to your Z endstop position in the Unboxing/Assembly section of this guide. Maintaining proper Z endstop positioning as well as following proper Bed Leveling procedures will ensure the most accurately leveled print bed, thus producing higher quality prints.**   
+{% endhint %}
+
 Scroll through the LCD main menu and select **Prepare** scroll down select **Bed** **Leveling**. In the sub menu select **Basic Bed Leveling**. 
 
 In order to complete the Basic Leveling process you will need **a piece of paper** or an index card of regular 8.5 x 11 paper thickness.
