@@ -68,6 +68,14 @@ The Basic Bed Leveling sequence will repeat the same prompts for the **Right Rea
 
 ![](../.gitbook/assets/bedlevel10.jpg)
 
+## **Apply Adhesive:**
+
+Once you have gotten a Basic Level on your M3D Crane Series printer, you may wish to print right away. The Apply Adhesive prompt is given at the end of the Basic Bed Leveling process in order to remind you to add your preferred method of adhesive to your print bed in order to insure snug print adhesion.  
+
+![](../.gitbook/assets/bedlevel11.jpg)
+
+Of course  you may wish to run through the Basic Bed Leveling process several times, it's certainly fine to select OK and move on with or without applying any Adhesive.  
+
 {% hint style="info" %}
 **NOTE: If the paper has little or no resistance, or is so tight it threatens to tear rather than be moved, repeat the Basic Bed Leveling process over again until the desired results are achieved.**
 {% endhint %}
