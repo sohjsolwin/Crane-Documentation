@@ -1,10 +1,6 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Critical Warnings & Information](critical-warnings-and-information.md)
-* [Getting Started](getting-started/README.md)
-  * [Preparing a Print](getting-started/preparing-a-print.md)
-  * [Running a Print](getting-started/running-a-print.md)
 
 ## Crane Bowden Guide
 
