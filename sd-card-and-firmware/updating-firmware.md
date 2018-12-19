@@ -68,8 +68,6 @@ Updating the Configuration files involves copying the new versions of the config
 **Warning: Updating your firmware can cause unintended consequences. Be aware that upgrading or downgrading to unstable firmware versions can cause unexpected bugs and issues. Use caution!**
 {% endhint %}
 
-## 
-
 ## Other Resources
 
 1. [Duet 3D Wiki: Updating and Installing Firmware](https://duet3d.dozuki.com/Wiki/Installing_and_Updating_Firmware)
