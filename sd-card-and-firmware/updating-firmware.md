@@ -29,6 +29,16 @@ Our firmware updates, courtesy of user dc42 can be found here: [https://github.c
 | 2.02RC5 | [System Firmware](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC5/DuetMaestroFirmware.bin) | dc42 |
 | 1.22.5 | [Duet Web Control](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC5/DuetWebControl-1.22.5.zip) | dc42 |
 
+## Updating System Firmware/Duet Web Console
+
+1. Download the firmware version linked above. This will be a _.bin_ or binary file called _**DuetMaestroFirmware.bin**_.
+2. Go to the settings tab of the Duet Web Console and find the ****_**Upload File\(s\)**_ button. Files uploaded here will be stored in the ****_**sys/**_ ****directory of the microSD card. Upload the _**DuetMaestroFirmware.bin**_ files.
+
+   ![aosmza6ID0m8KJ7A-uploadsysfiles.png](../.gitbook/assets/aosmza6id0m8kj7a-uploadsysfiles.png)
+
+3. When the firmware upgrade is completed, you can visit the _**Settings**_ ****tab in order to ensure that the _**Firmware Version**_ has been updated. 
+4. Next complete the same process for the _**DuetWebControl-1.22.5.zip**_
+
 ## Configuration Files:
 
 These Configuration Files are for use with Duet Firmware 2.02RC5. This update is tested and official but still being actively updated. [https://github.com/PrintM3D/Crane/releases](https://github.com/PrintM3D/Crane/releases)
@@ -58,15 +68,7 @@ Updating the Configuration files involves copying the new versions of the config
 **Warning: Updating your firmware can cause unintended consequences. Be aware that upgrading or downgrading to unstable firmware versions can cause unexpected bugs and issues. Use caution!**
 {% endhint %}
 
-## Updating System Firmware/Duet Web Console
-
-1. Download the firmware version linked above. This will be a _.bin_ or binary file called _**DuetMaestroFirmware.bin**_.
-2. Go to the settings tab of the Duet Web Console and find the ****_**Upload File\(s\)**_ button. Files uploaded here will be stored in the ****_**sys/**_ ****directory of the microSD card. Upload the _**DuetMaestroFirmware.bin**_ files.
-
-   ![aosmza6ID0m8KJ7A-uploadsysfiles.png](../.gitbook/assets/aosmza6id0m8kj7a-uploadsysfiles.png)
-
-3. When the firmware upgrade is completed, you can visit the _**Settings**_ ****tab in order to ensure that the _**Firmware Version**_ has been updated. 
-4. Next complete the same process for the _**DuetWebControl-1.22.5.zip**_
+## 
 
 ## Other Resources
 
