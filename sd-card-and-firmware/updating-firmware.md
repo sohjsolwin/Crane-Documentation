@@ -14,7 +14,7 @@ Once you have identified your software version and determined it is in need of a
 2. Duet Web Control
 3. Configuration Files
 
-If you have an SD card reader, it is recommended that you simply remove the SD card from your M3D Crane Series printer, place it in your computer's SD card reader and drag and drop the Firmware updates. However the Duet Web Control and Configuration files must be updated using the process described below. 
+If you have an SD card reader, it is recommended that you simply remove the SD card from your M3D Crane Series printer, place it in your computer's SD card reader and drag and drop the Configuration updates. However the Firmware and the Duet Web Control files must be updated using the process described below. 
 
 {% hint style="info" %}
 Updating your firmware is important in order to obtain the latest features and bug fixes. The Duet Maestro board uses a fork of RepRap firmware to control a 3D printer. 
@@ -35,25 +35,38 @@ These Configuration Files are for use with Duet Firmware 2.02RC5. This update is
 
 | Version | Description | Author |
 | :--- | :--- | :--- |
-| 2.02RC5: 1.35 | [M3D Crane Bowden](https://github.com/PrintM3D/Crane/releases/download/1.35/M3D_Bowden_135_pre.zip) | M3D |
-| 2.02RC5: 1.35 | [M3D Crane Dual](https://github.com/PrintM3D/Crane/releases/download/1.35/M3D_Dual_135_pre.zip)  | M3D |
-| 2.02RC5: 1.35 | [M3D Crane Quad](https://github.com/PrintM3D/Crane/releases/download/1.35/M3D_Quad_135_pre.zip) | M3D |
+| 2.02RC5: \(1.35\) | [M3D Crane Bowden](https://github.com/PrintM3D/Crane/releases/download/1.35-master/Crane_Bowden_135.zip) | M3D |
+| 2.02RC5: \(1.35\) | [M3D Crane Dual ](https://github.com/PrintM3D/Crane/releases/download/1.35-master/Crane_Dual_135.zip) | M3D |
+| 2.02RC5: \(1.35\) | [M3D Crane Quad](https://github.com/PrintM3D/Crane/releases/download/1.35-master/Crane_Quad_135.zip) | M3D |
+
+## Configuration Updates via SD Card:
+
+Updating the Configuration files involves copying the new versions of the configuration files to your M3D Crane Series printer's SD card. You will need an SD card reader in order to update the configuration files using this method. Be sure your M3D Crane Series printer is powered OFF before removing the SD card. The Configuration files that must be updated are **/sys/, /macros/**, and **/menu**. You may wish to back up your /macros/ in order to prevent any gcode files, slices, or macros you wish to save from being overwritten during the update process.  
+
+1. Download the Configuration files appropriate to your M3D Crane Series printer. For this example we will show the process for M3D Crane Bowden. 
+2. Power down your M3D Crane Series printer. Remove the SD card by pressing it firmly until you feel it release.
+3. Insert the SD card into your SD card reader and open the SD drive on your PC. Now is the time to make backups of any files on your SD card you wish to keep. 
+4. Open the folder containing the new Configuration files and copy them to the SD card. Replace and override when prompted. 
+
+![Download the Configuration file](../.gitbook/assets/capture1.PNG)
+
+![Copy the Configuration files](../.gitbook/assets/capture2.PNG)
+
+![Paste, or move Configuration files to the SD card](../.gitbook/assets/capture3.PNG)
 
 {% hint style="info" %}
 **Warning: Updating your firmware can cause unintended consequences. Be aware that upgrading or downgrading to unstable firmware versions can cause unexpected bugs and issues. Use caution!**
 {% endhint %}
 
-## Upgrading System Firmware via the Duet Web Console
+## Updating System Firmware/Duet Web Console
 
-1. Download the desired firmware version from DC42's github page. This will be a _.bin_ or binary file called _**DuetMaestroFirmware.bin**_.
-2. Download the ****_**iap4s.bin**_ file, this is necessary in order to update the firmware.
-3. Go to the settings tab of the Duet Web Console and find the ****_**Upload File\(s\)**_ button. Note: this is not for uploading prints. Files uploaded here will be stored in the ****_**sys/**_ ****directory of the microSD card. Upload the _**iap4s.bin**_ and _**DuetMaestroFirmware.bin**_ files.
+1. Download the firmware version linked above. This will be a _.bin_ or binary file called _**DuetMaestroFirmware.bin**_.
+2. Go to the settings tab of the Duet Web Console and find the ****_**Upload File\(s\)**_ button. Files uploaded here will be stored in the ****_**sys/**_ ****directory of the microSD card. Upload the _**DuetMaestroFirmware.bin**_ files.
 
    ![aosmza6ID0m8KJ7A-uploadsysfiles.png](../.gitbook/assets/aosmza6id0m8kj7a-uploadsysfiles.png)
 
-4. Once both files are uploaded successfully, go to the ****_**G-code Console**_. Send the command `M997 S0`. This will begin the process of upgrading Duet firmware.
-5. When the firmware upgrade is completed, you can visit the _**Settings**_ ****tab in order to ensure that the _**Firmware Version**_ has been updated to the preferred version. 
-6. If you prefer, you can now delete the _**iap4s.bin**_ and ****_**DuetMaestroFirmware.bin**_ files from the ****_**sys/**_ directory.
+3. When the firmware upgrade is completed, you can visit the _**Settings**_ ****tab in order to ensure that the _**Firmware Version**_ has been updated. 
+4. Next complete the same process for the _**DuetWebControl-1.22.5.zip**_
 
 ## Other Resources
 
