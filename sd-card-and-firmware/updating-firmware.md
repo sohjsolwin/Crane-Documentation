@@ -1,19 +1,33 @@
 # Firmware/Configuration
 
+It is very important that your M3D Crane Series printer has the most up to date software. In order to ensure the software is the newest version, you will need to identify what version of the software you are currently running. 
+
+## Identifying Firmware Version
+
+In order to identify your Firmware version you will need to go into your **Duet Web Control Console** and select the **Settings** option on the left side of the screen. Under the General tab, all of the **Firmware Versions** are listed. 
+
+![Firmware Information listed in Settings](../.gitbook/assets/capture.PNG)
+
+Once you have identified your software version and determined it is in need of an update follow this guide closely in order to successfully update your M3D Crane Series printer. These updates must be done in order. 
+
+1. Firmware
+2. Duet Web Control
+3. Configuration Files
+
+If you have an SD card reader, it is recommended that you simply remove the SD card from your M3D Crane Series printer, place it in your computer's SD card reader and drag and drop the Firmware updates. However the Duet Web Control and Configuration files must be updated using the process described below. 
+
 {% hint style="info" %}
 Updating your firmware is important in order to obtain the latest features and bug fixes. The Duet Maestro board uses a fork of RepRap firmware to control a 3D printer. 
 {% endhint %}
 
 ## Firmware:
 
-Our firmware updates, courtesy of user dc42 can be found here   [https://github.com/dc42/RepRapFirmware/releases](https://github.com/dc42/RepRapFirmware/releases)
+Our firmware updates, courtesy of user dc42 can be found here: [https://github.com/dc42/RepRapFirmware/releases/tag/2.02RC5](https://github.com/dc42/RepRapFirmware/releases/tag/2.02RC5)
 
 | Version  | Description  | Author  |
 | :--- | :--- | :--- |
-| 2.02RC5 | [Duet Maestro Firmware](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC5/DuetMaestroFirmware.bin) | dc42 |
-| 2.02RC5 | [Duet Web Control](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC5/DuetWebControl-1.22.5.zip) | dc42 |
-| 2.02RC2 | [Duet Web Control](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC2/DuetWebControl-1.22.3.zip) | dc42 |
-| 2.02RC2 | [Firmware](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC2/DuetMaestroFirmware.bin) | dc42 |
+| 2.02RC5 | [System Firmware](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC5/DuetMaestroFirmware.bin) | dc42 |
+| 1.22.5 | [Duet Web Control](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC5/DuetWebControl-1.22.5.zip) | dc42 |
 
 ## Configuration Files:
 
@@ -28,12 +42,6 @@ These Configuration Files are for use with Duet Firmware 2.02RC5. This update is
 {% hint style="info" %}
 **Warning: Updating your firmware can cause unintended consequences. Be aware that upgrading or downgrading to unstable firmware versions can cause unexpected bugs and issues. Use caution!**
 {% endhint %}
-
-## Identifying Firmware Version
-
-In order to find out if you want to update the firmware on the Duet Maestro you need to find your current version. You can view the RepRap firmware version in the Duet Web Console Settings Tab. Alternatively, you can use `M122`, command `M122` is the diagnose/debug command for RepRap firmware. If you send command `M122` the board will display a lot of debug statistics. In the first few lines the board will print out what firmware version it is running. Based on your firmware version, you might be able to identify if you are encountering a specific bug. Check DC42's github page regularly in order to read the latest firmware changes and see if any would be useful to you.
-
-![Checking the RepRap Firmware Version](../.gitbook/assets/7f3tzsd7jhrwm9se-firmwareversionid.png)
 
 ## Upgrading System Firmware via the Duet Web Console
 

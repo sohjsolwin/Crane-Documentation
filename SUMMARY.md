@@ -50,6 +50,7 @@
 
 ## Advanced Tuning M3D Crane Series
 
+* [Part Prints M3D Crane Series](advanced-tuning-m3d-crane-series/part-prints-m3d-crane-series.md)
 * [Introduction to G-Code Commands](advanced-tuning-m3d-crane-series/beginner-introduction-to-g-code-commands.md)
 * [Duet Web Control Bed Leveling Assistant](advanced-tuning-m3d-crane-series/duet-web-control-bed-leveling-assistant.md)
 * [Important G-Code Commands](advanced-tuning-m3d-crane-series/important-g-code-commands.md)
