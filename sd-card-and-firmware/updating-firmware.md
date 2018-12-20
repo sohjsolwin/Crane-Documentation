@@ -64,6 +64,16 @@ Updating the Configuration files involves copying the new versions of the config
 
 ![Paste, or move Configuration files to the SD card](../.gitbook/assets/capture3.PNG)
 
+## Video Tutorial:
+
+The following video tutorial is from our **User Submissions** made by **M3D Crane Series user Tylerun**. Our Firmware Updates are no longer in pre-release however once you've downloaded the new Firmware and Duet Web Control Updates from this page, following the remainder of the video tutorial will result in accurate updates.   
+
+{% embed url="https://www.youtube.com/watch?v=Xrji546LnJg" %}
+
+
+
+##  
+
 {% hint style="info" %}
 **Warning: Updating your firmware can cause unintended consequences. Be aware that upgrading or downgrading to unstable firmware versions can cause unexpected bugs and issues. Use caution!**
 {% endhint %}
