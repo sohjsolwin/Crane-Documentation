@@ -2,6 +2,10 @@
 
 It is very important that your M3D Crane Series printer has the most up to date software. In order to ensure the software is the newest version, you will need to identify what version of the software you are currently running. 
 
+{% hint style="warning" %}
+Always be sure your M3D Crane Series printer is powered OFF before removing the SD card. Always be sure the properly eject your SD card from your PC after installing the updates. 
+{% endhint %}
+
 ## Identifying Firmware Version
 
 In order to identify your Firmware version you will need to go into your **Duet Web Control Console** and select the **Settings** option on the left side of the screen. Under the General tab, all of the **Firmware Versions** are listed. 
