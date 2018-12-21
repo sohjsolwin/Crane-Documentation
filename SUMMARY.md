@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Warnings](warnings.md)
 
 ## Crane Bowden Guide
 
