@@ -29,15 +29,21 @@ Our firmware updates, courtesy of user dc42 can be found here: [https://github.c
 | 2.02RC5 | [System Firmware](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC5/DuetMaestroFirmware.bin) | dc42 |
 | 1.22.5 | [Duet Web Control](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC5/DuetWebControl-1.22.5.zip) | dc42 |
 
-## Updating System Firmware/Duet Web Console
+## Updating System Firmware
 
 1. Download the firmware version linked above. This will be a _.bin_ or binary file called _**DuetMaestroFirmware.bin**_.
-2. Go to the settings tab of the Duet Web Console and find the ****_**Upload File\(s\)**_ button. Files uploaded here will be stored in the ****_**sys/**_ ****directory of the microSD card. Upload the _**DuetMaestroFirmware.bin**_ files.
-
-   ![aosmza6ID0m8KJ7A-uploadsysfiles.png](../.gitbook/assets/aosmza6id0m8kj7a-uploadsysfiles.png)
-
+2. Go to the _**settings**_ tab of the Duet Web Console and find the ****_**Upload File\(s\)**_ button. Files uploaded here will be stored in the ****_**sys/**_ ****directory of the microSD card. Upload the _**DuetMaestroFirmware.bin**_ files.  
 3. When the firmware upgrade is completed, you can visit the _**Settings**_ ****tab in order to ensure that the _**Firmware Version**_ has been updated. 
-4. Next complete the same process for the _**DuetWebControl-1.22.5.zip**_
+
+![Upload Files Duet Web Control Console ](../.gitbook/assets/upload.png)
+
+## Updating Duet Web Console:
+
+1. Download the Duet Web Control update linked above. This will be _**.zip**_ file. \(No need to unpack this .zip file as it will be uploaded as a .zip\)
+2. Go to the _**Settings**_ tab of the Duet Web Console and find the _**Upload File\(s\) button.**_ Upload the _**DuetWebControl.zip**_ file. 
+3. When the Duet Web Control console is finished updating it will automatically _**restart**_. Once it's restarted, you can go to the _**Settings**_ tab in order to ensure the Duet Web Control has been updated.  
+
+![Upload Files Duet Web Control Console](../.gitbook/assets/upload.png)
 
 ## Configuration Files:
 
