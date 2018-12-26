@@ -58,7 +58,7 @@
 
 ## Community Submissions/Attributions
 
-* [Community Submissions](community-submissions-attributions/community-submissions.md)
+* [About Community Submissions](community-submissions-attributions/community-submissions.md)
 * [Attributions](community-submissions-attributions/attributions.md)
 
 ## Changelog

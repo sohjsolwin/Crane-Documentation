@@ -1,4 +1,4 @@
-# Community Submissions
+# About Community Submissions
 
 ## Community Support through Submissions:
 
