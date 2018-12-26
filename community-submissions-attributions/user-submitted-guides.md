@@ -8,7 +8,7 @@ description: >-
 
 ## User Created Video Guides:
 
-The following Video Guides were created by the user Tylerun 
+The following Video Guides were created by the user [**Tylerun**](https://www.youtube.com/channel/UCGeec2CuOivtNfsut2HUH1Q/featured) 
 
 ## Firmware Updates:
 
@@ -25,4 +25,6 @@ The following Video Guides were created by the user Tylerun
 ## Voxelizer 2 Basic Color Switching:
 
 {% embed url="https://www.youtube.com/watch?v=0dmPRjeNWpk&t=25s" %}
+
+We look forward to adding more Video Guides as well as other user submitted content! If you've created some user content and would like to submit it please refer to the section [**About Community Submissions** ](https://crane.printm3d.com/community-submissions-attributions/community-submissions)in order to have your content reviewed for publication. 
 
