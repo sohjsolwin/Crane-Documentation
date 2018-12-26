@@ -59,6 +59,7 @@
 ## Community Submissions/Attributions
 
 * [About Community Submissions](community-submissions-attributions/community-submissions.md)
+* [User Submitted Guides](community-submissions-attributions/user-submitted-guides.md)
 * [Attributions](community-submissions-attributions/attributions.md)
 
 ## Changelog
