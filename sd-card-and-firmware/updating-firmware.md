@@ -78,7 +78,7 @@ Updating the Configuration files involves copying the new versions of the config
 
 The following video tutorial is from our **User Submissions** made by **M3D Crane Series user Tylerun**. Our Firmware Updates are no longer in pre-release however once you've downloaded the new Firmware and Duet Web Control Updates from this page, following the remainder of the video tutorial will result in accurate updates.   
 
-{% embed url="https://www.youtube.com/watch?v=Xrji546LnJg" %}
+{% embed url="https://www.youtube.com/watch?v=hO7-jUEo5Q4" %}
 
 
 
