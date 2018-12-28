@@ -53,7 +53,7 @@ Once you've found the desired tension on the eccentric nut, you will need to tig
 
 Print Head Eccentric Nut
 
-![](https://raw.githubusercontent.com/PrintM3D/Crane-Documentation/master/.media/Print_Head_Eccentric_Nut.png)
+![](https://raw.githubusercontent.com/PrintM3D/Crane-Documentation/master/.media/PrintHead_Eccentric_Nut.png)
 
 When properly tuned, the print head should move easily side to side, but should not wobble front to back, nor should the x chassis wobble front to back on the chassis (See Z Axis tuning for adjustments of the X Chassis).
 
@@ -130,4 +130,21 @@ There are 2 primary points of adjustment (eccentric nuts) and 4 secondary points
 ### Tuning Results
 
 {% embed url="https://www.youtube.com/watch?v=m-G7wQ9EP80" %}
+
+## Belts
+
+### X Belt
+
+1. Slightly loosen the two  hex bolts holding the X belt tensioner to the rail and pull it as tight as you can.
+1. Tighten the two bolts down to lock the tensioner in place. 
+    1. When tightening, be sure to angle the tentioner down slightly to help the belt clear the edges of the rail. 
+    
+### Y Belt
+
+1. Remove the cover on the bottom of the printer to gain access to the Y motor. 
+1. Move the bed to the front of the printer.
+1. Slightly loosen the 4 screws holding the Y motor in place.
+1. Pull the Y motor to tighten the belt. 
+1. Tighten the screws holding the Y motor in place. 
+1. Reinstall the bottom cover. 
 
